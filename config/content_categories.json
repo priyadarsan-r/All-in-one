@@ -1,0 +1,22 @@
+{
+  "product_discovery": {
+    "share": 0.35,
+    "series": "This Actually Exists?!"
+  },
+  "curiosity_science": {
+    "share": 0.25,
+    "series": "Your Brain Will Love This"
+  },
+  "travel": {
+    "share": 0.15,
+    "series": "Places That Don't Look Real"
+  },
+  "digital_discovery": {
+    "share": 0.15,
+    "series": "Save This for Later"
+  },
+  "lifestyle": {
+    "share": 0.1,
+    "series": "Small Upgrade, Big Difference"
+  }
+}

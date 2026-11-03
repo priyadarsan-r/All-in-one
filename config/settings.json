@@ -1,0 +1,46 @@
+{
+  "brand": "CurioDaily",
+  "target_videos_per_day": 3,
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "min_seconds": 35,
+    "max_seconds": 55
+  },
+  "discovery": {
+    "minimum_score": 52,
+    "max_topics_per_run": 20,
+    "feeds": [
+      "https://www.producthunt.com/feed",
+      "https://www.reddit.com/r/todayilearned/.rss",
+      "https://www.reddit.com/r/interestingasfuck/.rss",
+      "https://www.reddit.com/r/travel/.rss",
+      "https://www.reddit.com/r/technology/.rss",
+      "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    ]
+  },
+  "categories": [
+    "product_discovery",
+    "curiosity_science",
+    "travel",
+    "digital_discovery",
+    "lifestyle"
+  ],
+  "scoring_weights": {
+    "curiosity": 25,
+    "visual_potential": 20,
+    "broad_appeal": 20,
+    "shareability": 15,
+    "brand_fit": 15,
+    "timeliness": 5
+  },
+  "publishing": {
+    "enabled_by_default": false,
+    "slots_ist": [
+      "09:00",
+      "14:00",
+      "19:00"
+    ]
+  }
+}

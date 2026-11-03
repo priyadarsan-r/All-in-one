@@ -1,0 +1,30 @@
+name: Publish YouTube Shorts
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Keep true for initial testing
+        required: true
+        default: "true"
+permissions:
+  contents: read
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: curiodaily-videos-*
+          merge-multiple: true
+          path: output
+      - run: python -m src.cli publish --platform youtube --limit 3
+        env:
+          ENABLE_PUBLISHING: "true"
+          DRY_RUN: ${{ inputs.dry_run }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
