@@ -439,6 +439,226 @@
       "discovered_at": "2026-11-04T13:18:45.261030+00:00",
       "score": 22.2,
       "status": "new"
+    },
+    {
+      "id": "c43efbcb37527ae5",
+      "title": "Hira",
+      "summary": "Your free personal agent for job search Discussion | Link",
+      "url": "https://www.producthunt.com/products/hira",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T23:57:55-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647044+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "ee50113cd89fb18c",
+      "title": "Freeport Markets",
+      "summary": "Our proprietary AI finds the top onchain wallets to copy Discussion | Link",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T13:56:35-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647292+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "13c2dbd52cad83e2",
+      "title": "TellPip",
+      "summary": "A little bird that whispers what to say in your calls Discussion | Link",
+      "url": "https://www.producthunt.com/products/tellpip",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T15:13:42-08:00",
+      "discovered_at": "2026-11-04T23:39:54.646695+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "edd4a8c017b1adbc",
+      "title": "Resum",
+      "summary": "API and SDK for live conversations Discussion | Link",
+      "url": "https://www.producthunt.com/products/resum",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T01:29:19-08:00",
+      "discovered_at": "2026-11-04T23:39:54.646920+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "283ab290c0084344",
+      "title": "Datashake MCP",
+      "summary": "Plug review and social data straight into your AI assistant Discussion | Link",
+      "url": "https://www.producthunt.com/products/datashake-hub",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T04:49:49-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647157+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6b45c5ddc4921bbb",
+      "title": "Orphex MCP",
+      "summary": "Run your entire digital marketing stack via one unified MCP Discussion | Link",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "source": "www.producthunt.com",
+      "published": "2026-10-07T02:59:12-07:00",
+      "discovered_at": "2026-11-04T23:39:54.647423+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "cf28f5a64c3c01c0",
+      "title": "Country Filter for X",
+      "summary": "Hide posts from chosen countries in your X For You feed Discussion | Link",
+      "url": "https://www.producthunt.com/products/country-filter-for-x-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T00:59:42-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647543+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "548b402ee2aadf6e",
+      "title": "QualityLayer",
+      "summary": "Plan, build and review software with your coding agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/qualitylayer",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T02:58:04-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647661+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "3a1ba7bc9fc2253f",
+      "title": "LiveReacting for ChatGPT",
+      "summary": "Run 24/7 and pre-recorded live streams from ChatGPT Discussion | Link",
+      "url": "https://www.producthunt.com/products/livereacting",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T05:45:28-08:00",
+      "discovered_at": "2026-11-04T23:39:54.647767+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c5e15732334aaa77",
+      "title": "Chorus Weather",
+      "summary": "Know when to trust the weather forecast Discussion | Link",
+      "url": "https://www.producthunt.com/products/chorus-weather",
+      "source": "www.producthunt.com",
+      "published": "2026-10-23T12:32:49-07:00",
+      "discovered_at": "2026-11-04T23:39:54.647975+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "bc293b1224ecb75f",
+      "title": "TIL that the legendary zombie movie director George Romero had his first filmmaking job in Mister Rogers’ Neighborhood. Fred Rogers later privately complimented Romero for his horror movie career, and called Dawn of the Dead \"a lot of fun\".",
+      "summary": "&#32; submitted by &#32; /u/PeasantLich [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xo0kwt/til_that_the_legendary_zombie_movie_director/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T21:32:18+00:00",
+      "discovered_at": "2026-11-04T23:39:55.132532+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "0eb1c8731f9d7f16",
+      "title": "TIL Charles Scott Robinson of Oklahoma has the longest sentence ever imposed in the United States (30,000 years). He would not be eligible for parole until he was 108.",
+      "summary": "&#32; submitted by &#32; /u/madd74 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnx875/til_charles_scott_robinson_of_oklahoma_has_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T19:21:38+00:00",
+      "discovered_at": "2026-11-04T23:39:55.132739+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4f6078f651d8dc05",
+      "title": "TIL Alaska and Louisiana are the only U.S. states without counties. Alaska uses boroughs and census areas, while Louisiana uses parishes.",
+      "summary": "&#32; submitted by &#32; /u/UltimateOreo [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnuq2o/til_alaska_and_louisiana_are_the_only_us_states/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T17:46:25+00:00",
+      "discovered_at": "2026-11-04T23:39:55.132901+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "14f9e0a7a5772b2d",
+      "title": "TIL that Maltese is a Semitic language and the only Semitic language written in the Latin alphabet. It is derived from the late medieval Sicilian Arabic.",
+      "summary": "&#32; submitted by &#32; /u/ft__interlude [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnqtym/til_that_maltese_is_a_semitic_language_and_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T15:18:01+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133029+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8ce94da0d7484991",
+      "title": "TIL that nuclear physicists use the \"Banana Equivalent Dose\" (BED) as an informal unit of radiation, because bananas contain predictable trace amounts of radioactive Potassium-40.",
+      "summary": "&#32; submitted by &#32; /u/Fairytlly [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnwymh/til_that_nuclear_physicists_use_the_banana/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T19:11:22+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133150+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "fe8492cf5895ab4e",
+      "title": "TIL following Inejirō Asanuma’s assassination in 1960, his dog Jiro refused to eat and died of grief weeks later.",
+      "summary": "&#32; submitted by &#32; /u/Big_Marzipan3904 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnqjy4/til_following_inejirō_asanumas_assassination_in/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T15:07:08+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133275+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "713079c1d9f134e9",
+      "title": "TIL that although very little is known about the spade-toothed whale and it’s never been observed alive, thanks to a 2024 dissection of one of the very few specimens we know it has a nine-chambered stomach.",
+      "summary": "&#32; submitted by &#32; /u/CatPooedInMyShoe [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xniqxv/til_that_although_very_little_is_known_about_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T08:11:35+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133406+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "bdfe5e8d6c54ae2a",
+      "title": "TIL about Richard Mentor Johnson, the 9th Vice President of the United States and noted 1812 War veteran, who inherited a slave, Julia Chinn, from his father. He treated her as his common law wife, one of the reasons leading to him not being renominated for VP.",
+      "summary": "&#32; submitted by &#32; /u/RaccoonCityTacos [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xo2ejt/til_about_richard_mentor_johnson_the_9th_vice/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T22:47:21+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133535+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5ed67da52a983343",
+      "title": "TIL There's a golden statue of Buddha in Thailand weighing 5.5 metric tonnes. For nearly 200 years, it was covered with stucco and coloured glass to conceal its value. It remained that way until 1955 during relocation when the plaster was accidentally chipped, revealing the gold underneath.",
+      "summary": "&#32; submitted by &#32; /u/AetheriaNox [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xn65ja/til_theres_a_golden_statue_of_buddha_in_thailand/",
+      "source": "www.reddit.com",
+      "published": "2026-11-03T21:43:52+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133692+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f9cb6261f6bb32f4",
+      "title": "TIL that hungry goat herds helped fight wildfires in Spain this past summer.",
+      "summary": "&#32; submitted by &#32; /u/RaccoonCityTacos [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnv3w2/til_that_hungry_goat_herds_helped_fight_wildfires/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T18:00:29+00:00",
+      "discovered_at": "2026-11-04T23:39:55.133852+00:00",
+      "score": 22.2,
+      "status": "new"
     }
   ]
 }
