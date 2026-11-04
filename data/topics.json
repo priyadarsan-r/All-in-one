@@ -1,3 +1,224 @@
 {
-  "topics": []
+  "topics": [
+    {
+      "id": "7a923cc2a2474134",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "source": "science.nasa.gov",
+      "published": "Wed, 04 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-04T13:14:13.927117+00:00",
+      "score": 32.0,
+      "status": "scripted"
+    },
+    {
+      "id": "48b4a1ff5db40072",
+      "title": "Astronaut and Earth",
+      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "source": "www.nasa.gov",
+      "published": "Tue, 03 Nov 2026 16:37:42 +0000",
+      "discovered_at": "2026-11-04T13:14:13.927297+00:00",
+      "score": 31.2,
+      "status": "scripted"
+    },
+    {
+      "id": "8fb2a1bc18c3eadd",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "source": "www.nasa.gov",
+      "published": "Tue, 03 Nov 2026 15:15:50 +0000",
+      "discovered_at": "2026-11-04T13:14:13.927421+00:00",
+      "score": 31.2,
+      "status": "scripted"
+    },
+    {
+      "id": "023b966283217f25",
+      "title": "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro",
+      "summary": "&#32; submitted by &#32; /u/Safe-Warning3810 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xmj8d1/til_that_during_world_war_ii_a_mechanical/",
+      "source": "www.reddit.com",
+      "published": "2026-11-03T04:16:18+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441904+00:00",
+      "score": 29.0,
+      "status": "new"
+    },
+    {
+      "id": "e3a0ce67aac52a15",
+      "title": "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions.",
+      "summary": "&#32; submitted by &#32; /u/Parlu10 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xn8wkx/til_about_kitsunebi_injapanese_folklore_theyre/",
+      "source": "www.reddit.com",
+      "published": "2026-11-03T23:38:50+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441674+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "97fe2f5b498e985e",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 03 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-04T13:14:13.927487+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "01f21d37543747c3",
+      "title": "TIL Up to 8% of human DNA consists of ancient viral code left over from infections that happened millions of years ago, and some of these viral genes are now essential for human life, such as the protein that helps form the placenta.",
+      "summary": "&#32; submitted by &#32; /u/fartinmyfuckingmouth [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xn3q63/til_up_to_8_of_human_dna_consists_of_ancient/",
+      "source": "www.reddit.com",
+      "published": "2026-11-03T20:10:37+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441334+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "1f15a4c3cb235cfb",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping [&#8230;]",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "source": "www.nasa.gov",
+      "published": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "discovered_at": "2026-11-04T13:14:13.927596+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "98318c611f86447d",
+      "title": "Basedash Verified dashboards",
+      "summary": "Show your team which dashboards to trust Discussion | Link",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T08:49:46-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894011+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "96fbd830cc7a895b",
+      "title": "PasteGuard for Mac",
+      "summary": "Keep secrets and personal data out of AI chats Discussion | Link",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T10:42:44-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894449+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "a0c5e74230f623ea",
+      "title": "TrackEdge",
+      "summary": "Hidden AI buttons on your MacBook’s trackpad Discussion | Link",
+      "url": "https://www.producthunt.com/products/trackedge-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T08:56:37-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894887+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "7c0f09a3687ca55a",
+      "title": "TIL about Harry Peglar, a crewman aboard the lost Franklin Expedition. His skeleton was one of the few to be discovered in 1859 as well as his belongings, but were misidentified due to the skeleton wearing clothes unsuitable for his rank. The skeleton was finally identified in 2026 by DNA testing.",
+      "summary": "&#32; submitted by &#32; /u/Sebastianlim [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xne5sg/til_about_harry_peglar_a_crewman_aboard_the_lost/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T03:49:43+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441438+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "1a96b5449d566ef2",
+      "title": "TIL that Manila Carnival was originally conceived by Col. George T. Langhorne to be a cock fighting ring and a Freak show, with Indigenous Filipinos as attractions. Gov-Gen. James Smith was so horrified by the plan that he changed it instead to a ritual celebrating PHL-US progress in the country.",
+      "summary": "&#32; submitted by &#32; /u/JoseMari117 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xngr14/til_that_manila_carnival_was_originally_conceived/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T06:08:54+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441720+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "bf13487fba70af7a",
+      "title": "TIL that parallel to Abraham Lincoln's assassination, John Wilkes Booth's conspirators, George Atzerodt, and Lewis Powell, sought to kill Vice President Andrew Johnson and Secretary of State William Seward. Atzerodt got drunk and never made the attempt, while Seward survived Powell's attack.",
+      "summary": "&#32; submitted by &#32; /u/Blackraven2007 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnauya/til_that_parallel_to_abraham_lincolns/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T01:06:50+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441767+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "bb45fe85c2f166ea",
+      "title": "TIL that the first US patents were granted by a board made up of the Secretary of State, the Secretary of War, and the Attorney General.",
+      "summary": "&#32; submitted by &#32; /u/DrakeSavory [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xmvxtj/til_that_the_first_us_patents_were_granted_by_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-03T15:27:47+00:00",
+      "discovered_at": "2026-11-04T13:14:13.442198+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "64d9c169a979f94c",
+      "title": "Eyecon",
+      "summary": "Auto pause video when you look away Discussion | Link",
+      "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T04:02:03-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894190+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "ddb0d8a6b9ea75a4",
+      "title": "Rungle",
+      "summary": "Turn your running photos and clips into share-ready Reels Discussion | Link",
+      "url": "https://www.producthunt.com/products/rungle",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T22:09:49-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894364+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "5be370f9bcad2d9a",
+      "title": "OpusClip 4.0",
+      "summary": "Turn raw footage into ready-to-publish videos with AI Discussion | Link",
+      "url": "https://www.producthunt.com/products/opusclip",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T09:11:39-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894653+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "ebb8845e78c18d67",
+      "title": "Virelo",
+      "summary": "Turn your video folders into a private streaming library Discussion | Link",
+      "url": "https://www.producthunt.com/products/virelo",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T01:27:35-08:00",
+      "discovered_at": "2026-11-04T13:14:12.894807+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "701b4e652e5d0b2c",
+      "title": "TIL a baby girl born in Uganda with a stillborn conjoined twin survived being connected to her sister’s body for six days before the separation surgery was performed. She spent six weeks in the hospital then went home with her parents. [Link has pic of both twins.]",
+      "summary": "&#32; submitted by &#32; /u/CatPooedInMyShoe [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xnjn1z/til_a_baby_girl_born_in_uganda_with_a_stillborn/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T09:10:56+00:00",
+      "discovered_at": "2026-11-04T13:14:13.441272+00:00",
+      "score": 25.2,
+      "status": "new"
+    }
+  ]
 }

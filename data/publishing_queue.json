@@ -1,3 +1,19 @@
 {
-  "items": []
+  "items": [
+    {
+      "script_id": "cd-7a923cc2a2474134",
+      "video": "output/cd-7a923cc2a2474134-SILENT-REVIEW.mp4",
+      "status": "review_required"
+    },
+    {
+      "script_id": "cd-48b4a1ff5db40072",
+      "video": "output/cd-48b4a1ff5db40072-SILENT-REVIEW.mp4",
+      "status": "review_required"
+    },
+    {
+      "script_id": "cd-8fb2a1bc18c3eadd",
+      "video": "output/cd-8fb2a1bc18c3eadd-SILENT-REVIEW.mp4",
+      "status": "review_required"
+    }
+  ]
 }

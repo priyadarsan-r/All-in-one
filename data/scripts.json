@@ -1,3 +1,121 @@
 {
-  "scripts": []
+  "scripts": [
+    {
+      "hook": "You probably haven't seen this: APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "narration": "Here's something worth discovering. APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342. APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photo. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342 — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+          "visual_query": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+          "duration": 8
+        },
+        {
+          "text": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education Abou",
+          "visual_query": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342 visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342"
+      ],
+      "sources": [
+        "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-7a923cc2a2474134",
+      "topic_id": "7a923cc2a2474134",
+      "created_at": "2026-11-04T13:14:14.123796+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Astronaut and Earth",
+      "narration": "Here's something worth discovering. Astronaut and Earth. CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Ku. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Astronaut and Earth — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Astronaut and Earth",
+          "visual_query": "Astronaut and Earth",
+          "duration": 8
+        },
+        {
+          "text": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International S",
+          "visual_query": "Astronaut and Earth visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Astronaut and Earth"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/astronaut-and-earth/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-48b4a1ff5db40072",
+      "topic_id": "48b4a1ff5db40072",
+      "created_at": "2026-11-04T13:14:14.123819+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "narration": "Here's something worth discovering. NASA Astronaut, STEM Creator Connect with Students for STEM Day. Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Astronaut, STEM Creator Connect with Students for STEM Day — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+          "visual_query": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+          "duration": 8
+        },
+        {
+          "text": "Students across the country will have the opportunity to connect directly with the International Space Station during a ",
+          "visual_query": "NASA Astronaut, STEM Creator Connect with Students for STEM Day visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Astronaut, STEM Creator Connect with Students for STEM Day"
+      ],
+      "sources": [
+        "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-8fb2a1bc18c3eadd",
+      "topic_id": "8fb2a1bc18c3eadd",
+      "created_at": "2026-11-04T13:14:14.123831+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    }
+  ]
 }
