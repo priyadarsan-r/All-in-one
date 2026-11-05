@@ -669,7 +669,7 @@
       "published": "Wed, 04 Nov 2026 16:52:43 +0000",
       "discovered_at": "2026-11-05T06:45:03.045625+00:00",
       "score": 34.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "aa817fbd33a50e64",
@@ -680,7 +680,7 @@
       "published": "Wed, 04 Nov 2026 15:59:36 +0000",
       "discovered_at": "2026-11-05T06:45:03.045899+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "17b419de60593afa",
@@ -691,7 +691,7 @@
       "published": "Thu, 05 Nov 2026 01:43:21 +0000",
       "discovered_at": "2026-11-05T06:45:03.045202+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "1870c2f936857828",
@@ -877,6 +877,28 @@
       "source": "www.reddit.com",
       "published": "2026-11-05T04:23:56+00:00",
       "discovered_at": "2026-11-05T06:45:02.442723+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c0dcc7f5f59eadb7",
+      "title": "TIL the Seattle’s King County was originally named for a slave-owning VicePresident. It was renamed for MLK Jr. in the 1980s",
+      "summary": "&#32; submitted by &#32; /u/rjewell40 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xo204q/til_the_seattles_king_county_was_originally_named/",
+      "source": "www.reddit.com",
+      "published": "2026-11-04T22:30:17+00:00",
+      "discovered_at": "2026-11-05T07:00:44.361266+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "3b7f4e62130b92a2",
+      "title": "TIL in 2025 a landmine-sniffing rat named Ronin set a record, uncovering 109 landmines and 15 items of unexploded ordnance since 2021",
+      "summary": "&#32; submitted by &#32; /u/Crocs_of_Steel [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xo4d3d/til_in_2025_a_landminesniffing_rat_named_ronin/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T00:13:21+00:00",
+      "discovered_at": "2026-11-05T07:00:44.361478+00:00",
       "score": 22.2,
       "status": "new"
     }

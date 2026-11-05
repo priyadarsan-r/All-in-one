@@ -116,6 +116,123 @@
       "created_at": "2026-11-04T13:14:14.123831+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "narration": "Here's something worth discovering. NASA Navigation Experiment Shows Promise for Planetary Landings. NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – In. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Navigation Experiment Shows Promise for Planetary Landings — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+          "visual_query": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+          "duration": 8
+        },
+        {
+          "text": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the",
+          "visual_query": "NASA Navigation Experiment Shows Promise for Planetary Landings visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Navigation Experiment Shows Promise for Planetary Landings"
+      ],
+      "sources": [
+        "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-01e335326b528326",
+      "topic_id": "01e335326b528326",
+      "created_at": "2026-11-05T07:00:44.925284+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Hubble Reveals Cosmic Mystery",
+      "narration": "Here's something worth discovering. Hubble Reveals Cosmic Mystery. This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundr. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Hubble Reveals Cosmic Mystery — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Hubble Reveals Cosmic Mystery",
+          "visual_query": "Hubble Reveals Cosmic Mystery",
+          "duration": 8
+        },
+        {
+          "text": "This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble ",
+          "visual_query": "Hubble Reveals Cosmic Mystery visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Hubble Reveals Cosmic Mystery"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-aa817fbd33a50e64",
+      "topic_id": "aa817fbd33a50e64",
+      "created_at": "2026-11-05T07:00:44.925321+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "narration": "Here's something worth discovering. NASA Announces X-70 Experimental Aircraft to Advance Flight Research. On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+          "visual_query": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+          "duration": 8
+        },
+        {
+          "text": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Ken",
+          "visual_query": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Announces X-70 Experimental Aircraft to Advance Flight Research"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-17b419de60593afa",
+      "topic_id": "17b419de60593afa",
+      "created_at": "2026-11-05T07:00:44.925343+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
