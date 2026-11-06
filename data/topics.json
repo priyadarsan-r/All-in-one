@@ -42,7 +42,7 @@
       "published": "2026-11-03T04:16:18+00:00",
       "discovered_at": "2026-11-04T13:14:13.441904+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "e3a0ce67aac52a15",
@@ -911,7 +911,7 @@
       "published": "2026-11-05T18:37:56+00:00",
       "discovered_at": "2026-11-05T19:56:20.687973+00:00",
       "score": 31.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "9c2beb5400d4143d",
@@ -922,7 +922,7 @@
       "published": "2026-11-03T03:42:12-08:00",
       "discovered_at": "2026-11-05T19:56:20.062026+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "308ae2439ecf7490",
@@ -1339,6 +1339,226 @@
       "source": "www.reddit.com",
       "published": "2026-11-06T02:24:40+00:00",
       "discovered_at": "2026-11-06T06:42:59.038340+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8b5481b36d0c2ef0",
+      "title": "Cosyra",
+      "summary": "Launch and steer agents on your machines from your phone Discussion | Link",
+      "url": "https://www.producthunt.com/products/cosyra",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T12:20:04-08:00",
+      "discovered_at": "2026-11-06T07:00:46.612637+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c6c5e27d5ccc7d02",
+      "title": "Vibeconferencing",
+      "summary": "Your Claude Code session, in your Meet, Zoom or Teams call Discussion | Link",
+      "url": "https://www.producthunt.com/products/vibeconferencing",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T14:49:38-08:00",
+      "discovered_at": "2026-11-06T07:00:46.612978+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "367be855d9408ab5",
+      "title": "TIL that not only can we smell fear, but when testing on volunteers on the autism spectrum the autistic volunteers had the exact opposite reaction to fear odors as the control volunteers. The control volunteers became more fearful, the autistic volunteers became more calm.",
+      "summary": "&#32; submitted by &#32; /u/machiniganeer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xp0pu1/til_that_not_only_can_we_smell_fear_but_when/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T01:51:50+00:00",
+      "discovered_at": "2026-11-06T07:00:47.157616+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8959fef2f8881092",
+      "title": "TIL that Guy Fawkes was hung, gutted and tortured for his plans. He was caught red handed after an anonymous tip off leading to his torture, which revealed co-conspirators. This was followed up by execution and his body parts paraded around London.",
+      "summary": "&#32; submitted by &#32; /u/FearMyCock [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xoqxhe/til_that_guy_fawkes_was_hung_gutted_and_tortured/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T18:53:27+00:00",
+      "discovered_at": "2026-11-06T07:00:47.157856+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2ecc867f13c3371a",
+      "title": "TIL: The S&P 500 has fallen more than 20% in a single trading day, but only once in modern market history. Oct. 19, 1987 Black Monday -20.47%",
+      "summary": "&#32; submitted by &#32; /u/ethereal3xp [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xopjn1/til_the_sp_500_has_fallen_more_than_20_in_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T18:01:02+00:00",
+      "discovered_at": "2026-11-06T07:00:47.157975+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c93ff78cd4a4de92",
+      "title": "TIL When Zimbabwe's inflation reached 200 million percent in 2009, Mugabe's government abandoned Zimbabwe's own currency and adopted the U.S. dollar as legal tender. It helped end hyperinflation and stabalize Zimbabwe's economy",
+      "summary": "&#32; submitted by &#32; /u/ubcstaffer123 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xp2jpk/til_when_zimbabwes_inflation_reached_200_million/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T03:22:47+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158099+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "34d3e0808c190c27",
+      "title": "TIL that flying over Afghanistan requires requesting permission through a Gmail account at least 48 hours in advance and paying a $700 fee. With no en-route air traffic control, pilots must broadcast their positions and intentions over radio and maintain separation themselves",
+      "summary": "&#32; submitted by &#32; /u/FuckASchwarzenegger [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xor2ue/til_that_flying_over_afghanistan_requires/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T18:59:14+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158200+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "0d33ad64d7c344b2",
+      "title": "TIL that while Rush Holt, Sr ran for the US Senate on a platform of lowering the minimum age to be elected below 30, he was legally barred from serving in the Senate himself for six months due to being elected at the age of 29 and was only sworn in on his birthday.",
+      "summary": "&#32; submitted by &#32; /u/res30stupid [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xp1k33/til_that_while_rush_holt_sr_ran_for_the_us_senate/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T02:33:29+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158294+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2a3c2ac57c82530a",
+      "title": "TIL the name \"Chilean sea bass\" was invented by a fish wholesaler named Lee Lantz in 1977. He was looking for a name to make it attractive to the American market. He considered \"Pacific sea bass\" and \"South American sea bass\" before settling on \"Chilean sea bass\".",
+      "summary": "&#32; submitted by &#32; /u/AetheriaNox [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xokdth/til_the_name_chilean_sea_bass_was_invented_by_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T14:43:11+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158386+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f2f4ce1a3b2f8aa1",
+      "title": "TIL that roughly 1 in 3 men who die by hanging (whether by suicide or execution) may experience an erection during or shortly after death, a phenomenon known as a “death erection” or “angel lust.”.",
+      "summary": "&#32; submitted by &#32; /u/CrikeyNighMeansNigh [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xoyv80/til_that_roughly_1_in_3_men_who_die_by_hanging/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T00:22:42+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158483+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a2aeba18a89bb966",
+      "title": "TIL the \"seeds\" on a strawberry aren't seeds — each one is a tiny fruit (an achene) with a seed inside it, and the red flesh isn't the fruit either, it's swollen receptacle tissue",
+      "summary": "&#32; submitted by &#32; /u/Creepy-Golf3714 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xosxkc/til_the_seeds_on_a_strawberry_arent_seeds_each/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T20:11:33+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158664+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "eefb0ad46708f4ea",
+      "title": "TIL there are worms whose bodies branch like trees",
+      "summary": "&#32; submitted by &#32; /u/Pholidotes [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xowlq3/til_there_are_worms_whose_bodies_branch_like_trees/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T22:41:15+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158780+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7d1f67119aee4ec8",
+      "title": "TIL that cats may have evolved a euphoric response to catnip as a result of its active ingredient being a mosquito repellent.",
+      "summary": "&#32; submitted by &#32; /u/telnorp [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xowovz/til_that_cats_may_have_evolved_a_euphoric/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T22:45:13+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158876+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "75c043cafb4763a9",
+      "title": "TIL to fund wars against Revolutionary and later Napoleonic France, Britain imposed a tax on hair powder for powdered wigs in 1795. The tax sped up the decline of these wigs and the act lasted until 1861.",
+      "summary": "&#32; submitted by &#32; /u/Recent_Flounder6011 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xofg7e/til_to_fund_wars_against_revolutionary_and_later/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T10:37:42+00:00",
+      "discovered_at": "2026-11-06T07:00:47.158958+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ec916005b4573808",
+      "title": "TIL about the \"Northwest Angle,\" a part of Minnesota that is physically cut off from the rest of the United States and surrounded by Canada because negotiators of the initial Canada–U.S. border misunderstood the geography of the area.",
+      "summary": "&#32; submitted by &#32; /u/Pemulis_DMZ [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xorvkk/til_about_the_northwest_angle_a_part_of_minnesota/",
+      "source": "www.reddit.com",
+      "published": "2026-11-05T19:29:57+00:00",
+      "discovered_at": "2026-11-06T07:00:47.159062+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c852ea69ce640930",
+      "title": "TIL that the grandson of the Red Bull co-founder is an international fugitive",
+      "summary": "&#32; submitted by &#32; /u/Shdwplayer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xoz1gj/til_that_the_grandson_of_the_red_bull_cofounder/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T00:30:38+00:00",
+      "discovered_at": "2026-11-06T07:00:47.159144+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4ae9eacece38a2d5",
+      "title": "TIL that significant details in Aboriginal Australian folklore regarding the history of several specific geological features are independently supported by geological evidence",
+      "summary": "&#32; submitted by &#32; /u/bnrshrnkr [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xp4psm/til_that_significant_details_in_aboriginal/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T05:20:40+00:00",
+      "discovered_at": "2026-11-06T07:00:47.159243+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5ccb8daefffa8d62",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "source": "science.nasa.gov",
+      "published": "Fri, 06 Nov 2026 05:01:00 +0000",
+      "discovered_at": "2026-11-06T07:00:47.619584+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ed8a08774e44c6e4",
+      "title": "Hubble Learns Galactic History From Stars",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "source": "science.nasa.gov",
+      "published": "Thu, 05 Nov 2026 12:56:21 +0000",
+      "discovered_at": "2026-11-06T07:00:47.619837+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a3b3378bfec6d6d9",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "source": "www.nasa.gov",
+      "published": "Wed, 04 Nov 2026 21:04:10 +0000",
+      "discovered_at": "2026-11-06T07:00:47.620014+00:00",
       "score": 22.2,
       "status": "new"
     }

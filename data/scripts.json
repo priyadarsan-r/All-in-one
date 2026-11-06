@@ -233,6 +233,123 @@
       "created_at": "2026-11-05T07:00:44.925343+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison.",
+      "narration": "Here's something worth discovering. TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison.. &#32; submitted by &#32; /u/mikechi2501 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison.",
+          "visual_query": "TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/mikechi2501 [link] &#32; [comments]",
+          "visual_query": "TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL Juan-Carlos Cruz, nicknamed the “Calorie Commando”, was a Food Network host who paid $1,000 to three homeless men to murder his wife. Police set up a sting and videotaped Cruz arranging the murder. Cruz pleased “no contest” and was sentenced to nine years in prison."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xoqiof/til_juancarlos_cruz_nicknamed_the_calorie/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-694a757b68f2e807",
+      "topic_id": "694a757b68f2e807",
+      "created_at": "2026-11-06T07:00:47.926993+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Seamcult",
+      "narration": "Here's something worth discovering. Seamcult. A pattern design tool for the LLM era ('paper' for patterns) Discussion | Link. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Seamcult — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Seamcult",
+          "visual_query": "Seamcult",
+          "duration": 8
+        },
+        {
+          "text": "A pattern design tool for the LLM era ('paper' for patterns) Discussion | Link",
+          "visual_query": "Seamcult visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Seamcult"
+      ],
+      "sources": [
+        "https://www.producthunt.com/products/seamcult"
+      ],
+      "needs_human_review": true,
+      "id": "cd-9c2beb5400d4143d",
+      "topic_id": "9c2beb5400d4143d",
+      "created_at": "2026-11-06T07:00:47.927024+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro",
+      "narration": "Here's something worth discovering. TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro. &#32; submitted by &#32; /u/Safe-Warning3810 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro",
+          "visual_query": "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/Safe-Warning3810 [link] &#32; [comments]",
+          "visual_query": "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL that during World War II, a mechanical engineer named George de Mestral went on a hunting trip with his dog and noticed cockleburs sticking to his clothes. Upon examining them under a microscope, he discovered tiny hooks that inspired him to invent Velcro"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xmj8d1/til_that_during_world_war_ii_a_mechanical/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-023b966283217f25",
+      "topic_id": "023b966283217f25",
+      "created_at": "2026-11-06T07:00:47.927040+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
