@@ -702,7 +702,7 @@
       "published": "2026-11-05T03:57:28+00:00",
       "discovered_at": "2026-11-05T06:45:02.443268+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "85310a7bf2f56597",
@@ -933,7 +933,7 @@
       "published": "2026-11-05T18:07:07+00:00",
       "discovered_at": "2026-11-05T19:56:20.687713+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "49ec32e50312fbb7",
@@ -1571,7 +1571,7 @@
       "published": "2026-11-06T18:16:44+00:00",
       "discovered_at": "2026-11-06T19:23:40.193777+00:00",
       "score": 31.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "f8c60b9f86c967b2",
@@ -1999,6 +1999,226 @@
       "source": "www.producthunt.com",
       "published": "2026-11-05T10:55:10-08:00",
       "discovered_at": "2026-11-07T05:57:11.727839+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2ded0adc127fb0cf",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "source": "science.nasa.gov",
+      "published": "Sat, 07 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-07T06:14:39.861063+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "1045d20d2950c22c",
+      "title": "OpenVisio",
+      "summary": "One workspace for your team and its AI coding agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/openvisio",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T02:54:48-08:00",
+      "discovered_at": "2026-11-07T06:14:38.476348+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "fde78e841c88126e",
+      "title": "Wisp",
+      "summary": "Wisp is a little AI fairy who lives on your desktop Discussion | Link",
+      "url": "https://www.producthunt.com/products/wisp-9",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T08:28:20-08:00",
+      "discovered_at": "2026-11-07T06:14:38.476122+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4b4ae1219b5477f5",
+      "title": "Wonder Dev View",
+      "summary": "Run many Claude Code and Codex agents in parallel Discussion | Link",
+      "url": "https://www.producthunt.com/products/wonder-dev-view",
+      "source": "www.producthunt.com",
+      "published": "2026-11-01T19:47:30-08:00",
+      "discovered_at": "2026-11-07T06:14:38.476444+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f1fe0e084114f68f",
+      "title": "Codiclens",
+      "summary": "Local AI powerd Mac launcher and file finder Discussion | Link",
+      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T13:12:24-08:00",
+      "discovered_at": "2026-11-07T06:14:38.476575+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4b01d62a5c4d9291",
+      "title": "chalk",
+      "summary": "learn anything, anywhere Discussion | Link",
+      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
+      "source": "www.producthunt.com",
+      "published": "2026-10-29T11:42:39-07:00",
+      "discovered_at": "2026-11-07T06:14:38.476656+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c60d5319df712a08",
+      "title": "Make0 Brain OSS",
+      "summary": "Sync context across all your agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/make0-brain",
+      "source": "www.producthunt.com",
+      "published": "2026-10-29T08:42:42-07:00",
+      "discovered_at": "2026-11-07T06:14:38.476778+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4122bb5794b09713",
+      "title": "Translucent AI",
+      "summary": "Test infrastructure for hardware teams Discussion | Link",
+      "url": "https://www.producthunt.com/products/translucent-ai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T06:57:51-08:00",
+      "discovered_at": "2026-11-07T06:14:38.476915+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "179beef5f38898f9",
+      "title": "TIL Jim Parsons earned $1 million per episode of the Big Bang Theory from seasons 8-10, making him one of the highest-grossing actors at the time.",
+      "summary": "&#32; submitted by &#32; /u/Twunkorama [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpqznj/til_jim_parsons_earned_1_million_per_episode_of/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T23:06:34+00:00",
+      "discovered_at": "2026-11-07T06:14:39.074693+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b255f86b04c69292",
+      "title": "TIL Iowa Governor-Elect Rob Sand Was a Prada Runway Model to Pay College Expenses",
+      "summary": "&#32; submitted by &#32; /u/Jazzy_Jazmine [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpwv0w/til_iowa_governorelect_rob_sand_was_a_prada/",
+      "source": "www.reddit.com",
+      "published": "2026-11-07T03:57:21+00:00",
+      "discovered_at": "2026-11-07T06:14:39.074948+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "e4cf7746c4aced22",
+      "title": "TIL In an Athenian culture that worshipped male beauty, Socrates was considered incredibly ugly. His eyes bulged out of his head and were not straight but focused sideways. He had a snub nose, which made him resemble a pig, and many sources depict him with a potbelly.",
+      "summary": "&#32; submitted by &#32; /u/AetheriaNox [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xplgis/til_in_an_athenian_culture_that_worshipped_male/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T19:15:12+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075050+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a0e9a1a26164c7f0",
+      "title": "TIL that the February 12, 2011 episode of Saturday Night Live was hosted by Russell Brand with musical guest Chris Brown",
+      "summary": "&#32; submitted by &#32; /u/JoeyZasaa [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xps2om/til_that_the_february_12_2011_episode_of_saturday/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T23:57:58+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075141+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5eaf642695c8eca4",
+      "title": "TIL that \"cab under\" semi-trucks exist, allowing the entire length of the vehicle to be used for cargo",
+      "summary": "&#32; submitted by &#32; /u/ManagerGames [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpwj49/til_that_cab_under_semitrucks_exist_allowing_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-07T03:39:15+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075220+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2a4c585aa4e7fbdd",
+      "title": "TIL that the actor who played Benny, the henchman waiting in the hallway with the gun in Léon: The Professional, was a firefighter, and later died in the Sept. 11th attacks.",
+      "summary": "&#32; submitted by &#32; /u/Trematode [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpgiln/til_that_the_actor_who_played_benny_the_henchman/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T16:04:34+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075321+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2802e77a01e0db67",
+      "title": "TIL about the \"Shroud of Turin\", a length of linen cloth venerated by some Christians as being the shroud placed over Jesus' body after his crucifixion. The general scholarly consensus is that the shroud is a forgery, made during the Middle Ages.",
+      "summary": "&#32; submitted by &#32; /u/Sebastianlim [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpt7se/til_about_the_shroud_of_turin_a_length_of_linen/",
+      "source": "www.reddit.com",
+      "published": "2026-11-07T00:51:23+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075400+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d6bb774ae607de55",
+      "title": "TIL that Martin Luther, often remembered for empowering the common believer, claimed credit for crushing the 1525 Peasants' War: \"I, Martin Luther, have during the rebellion slain all the peasants... All their blood is upon my neck. But I put it on our Lord God, for he commanded me to speak thus.\"",
+      "summary": "&#32; submitted by &#32; /u/DbeID [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xp8gpx/til_that_martin_luther_often_remembered_for/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T09:18:17+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075496+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7c5ca1efd05b385a",
+      "title": "TIL that Netball exists because its inventor, Clara Baer, misunderstood the rules of basketball",
+      "summary": "&#32; submitted by &#32; /u/Equivalent-Job-485 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpko8k/til_that_netball_exists_because_its_inventor/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T18:44:39+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075582+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f8915bab8341a760",
+      "title": "TIL the smallest known lizard is probably the nano-chameleon (Brookesia nana) of northern Madagascar. Adult males are only about 22 mm (under an inch) long including the tail, with a body of roughly 13.5 mm, about the size of a sunflower seed.",
+      "summary": "&#32; submitted by &#32; /u/Thin-Rip-3686 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpudeb/til_the_smallest_known_lizard_is_probably_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-07T01:47:52+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075656+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5c7a9f91cc0dfdf8",
+      "title": "TIL that thunderstorms can cause asthma attacks. The reason is not known for sure but it's thought to be caused by pollen being broken up and thus passing easily into the lungs.",
+      "summary": "&#32; submitted by &#32; /u/CitizenPremier [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpedpu/til_that_thunderstorms_can_cause_asthma_attacks/",
+      "source": "www.reddit.com",
+      "published": "2026-11-06T14:37:58+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075724+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8ab38dc2db0baf21",
+      "title": "TIL the Mason-Dixon Line was drawn up a century prior to the Civil War",
+      "summary": "&#32; submitted by &#32; /u/slapnowski [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xpw6gu/til_the_masondixon_line_was_drawn_up_a_century/",
+      "source": "www.reddit.com",
+      "published": "2026-11-07T03:20:28+00:00",
+      "discovered_at": "2026-11-07T06:14:39.075787+00:00",
       "score": 22.2,
       "status": "new"
     }
