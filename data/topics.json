@@ -2848,6 +2848,226 @@
       "discovered_at": "2026-11-08T06:19:35.578032+00:00",
       "score": 22.2,
       "status": "new"
+    },
+    {
+      "id": "235e56099bb6c36b",
+      "title": "NotchIsland",
+      "summary": "Free, open-source Dynamic Island for the MacBook notch Discussion | Link",
+      "url": "https://www.producthunt.com/products/notchisland-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T03:00:48-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153575+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "65ae6d8caa61c393",
+      "title": "TIL Beatrice Shilling, the engineer who solved a wartime fuel-flow problem in Spitfires, later helped design and build a bobsled for the Royal Air Force’s Olympic team.",
+      "summary": "&#32; submitted by &#32; /u/enthusiast_anderson [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xqxyhg/til_beatrice_shilling_the_engineer_who_solved_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-08T13:03:54+00:00",
+      "discovered_at": "2026-11-08T13:22:49.936587+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "72f958d1cd0f1a4b",
+      "title": "Zigzag Browser",
+      "summary": "The polished, native Mac browser for life after Arc Discussion | Link",
+      "url": "https://www.producthunt.com/products/zigzag-3",
+      "source": "www.producthunt.com",
+      "published": "2026-11-07T06:38:06-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153793+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "d4894fb97561497f",
+      "title": "Frameboy by World Labs",
+      "summary": "Interactive world exploration with Atlas Discussion | Link",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T21:06:31-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153878+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "11c9210c12998288",
+      "title": "TIL that during the Crimean War, there was the Åland War, where British and French attacked the Finnish coast and the Åland Islands. During the Battle of Bomarsund, they successfully destroyed a fortress there, resulting in the demilitarization of the islands.",
+      "summary": "&#32; submitted by &#32; /u/Recent_Flounder6011 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xqlvo4/til_that_during_the_crimean_war_there_was_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-08T01:00:18+00:00",
+      "discovered_at": "2026-11-08T13:22:49.936797+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "85a329f29f7d5d46",
+      "title": "AXL",
+      "summary": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
+      "url": "https://www.producthunt.com/products/axl-2",
+      "source": "www.producthunt.com",
+      "published": "2026-10-30T14:17:40-07:00",
+      "discovered_at": "2026-11-08T13:22:49.153448+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "cf787ba6b67ecc78",
+      "title": "outages.live",
+      "summary": "A free live outage feed for your agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "www.producthunt.com",
+      "published": "2026-11-04T16:40:25-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153624+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "332bd3b009f0dc67",
+      "title": "Agent Clan",
+      "summary": "Command your Claude Code and Codex agents with gestures Discussion | Link",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "source": "www.producthunt.com",
+      "published": "2026-11-07T09:52:26-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153281+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6f5ac4ebf2a352eb",
+      "title": "Textly",
+      "summary": "Capture Text & Tables from Anywhere on Your Mac Discussion | Link",
+      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T03:53:22-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153514+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "14c4857a7ace7e7f",
+      "title": "NoMac",
+      "summary": "Your AI agent's own Mac, billed per minute. No subscription Discussion | Link",
+      "url": "https://www.producthunt.com/products/nomac",
+      "source": "www.producthunt.com",
+      "published": "2026-10-26T12:07:17-07:00",
+      "discovered_at": "2026-11-08T13:22:49.153668+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "141f237f3e416f43",
+      "title": "Sage2 by Levanto Labs",
+      "summary": "Turn live talk into structured data and instant actions Discussion | Link",
+      "url": "https://www.producthunt.com/products/sagecraft",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T10:04:38-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153710+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d522692ea18c6793",
+      "title": "Inkling 2 Small",
+      "summary": "A model that can see and refine what it builds Discussion | Link",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-06T06:18:59-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153752+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6a693efed742e5d9",
+      "title": "Memorias",
+      "summary": "An AI biographer that turns your stories into a book Discussion | Link",
+      "url": "https://www.producthunt.com/products/memorias-3",
+      "source": "www.producthunt.com",
+      "published": "2026-10-13T06:48:16-07:00",
+      "discovered_at": "2026-11-08T13:22:49.153834+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "07de34203e98cf8e",
+      "title": "Tilde ",
+      "summary": "Finder replacement & file manager for mac Discussion | Link",
+      "url": "https://www.producthunt.com/products/tilde-for-mac",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T00:46:52-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153921+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2e65bab1af428023",
+      "title": "DocsAlot for customer support",
+      "summary": "Slack and Discord bot that answers your customers questions Discussion | Link",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-04T21:41:21-08:00",
+      "discovered_at": "2026-11-08T13:22:49.153965+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "583dc562fcb93dd4",
+      "title": "Archie",
+      "summary": "Mac Screenshot Manager & Notch Shelf Discussion | Link",
+      "url": "https://www.producthunt.com/products/archie-3",
+      "source": "www.producthunt.com",
+      "published": "2026-11-01T11:15:40-08:00",
+      "discovered_at": "2026-11-08T13:22:49.154006+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2c2f0f664e354111",
+      "title": "Deduplication",
+      "summary": "Which Meaning Owns the Word? Discussion | Link",
+      "url": "https://www.producthunt.com/products/hacker-noon",
+      "source": "www.producthunt.com",
+      "published": "2026-11-03T02:28:09-08:00",
+      "discovered_at": "2026-11-08T13:22:49.154046+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "29864b121b259104",
+      "title": "NotchX",
+      "summary": "Turn your MacBook's notch into a hub for music and calls Discussion | Link",
+      "url": "https://www.producthunt.com/products/notch-11",
+      "source": "www.producthunt.com",
+      "published": "2026-11-07T08:04:59-08:00",
+      "discovered_at": "2026-11-08T13:22:49.154087+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "23544bdd84d08f17",
+      "title": "Keypause",
+      "summary": "Turn off your Mac's keyboard while you clean it Discussion | Link",
+      "url": "https://www.producthunt.com/products/keypause",
+      "source": "www.producthunt.com",
+      "published": "2026-11-04T20:38:36-08:00",
+      "discovered_at": "2026-11-08T13:22:49.154125+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b9eac7985848e58e",
+      "title": "TIL that Nagasaki holds the oldest Chinese community in Japan. Most were from fujian province of China and were Ming dynasty loyalist who had fled to Japan.",
+      "summary": "&#32; submitted by &#32; /u/gioroaizin [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xqu6fn/til_that_nagasaki_holds_the_oldest_chinese/",
+      "source": "www.reddit.com",
+      "published": "2026-11-08T09:05:43+00:00",
+      "discovered_at": "2026-11-08T13:22:49.936178+00:00",
+      "score": 22.2,
+      "status": "new"
     }
   ]
 }
