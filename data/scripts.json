@@ -467,6 +467,123 @@
       "created_at": "2026-11-07T06:14:40.169811+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Meadow",
+      "narration": "Here's something worth discovering. Meadow. Hidden songs on your walk, chosen by people, not algorithms Discussion | Link. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Meadow — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Meadow",
+          "visual_query": "Meadow",
+          "duration": 8
+        },
+        {
+          "text": "Hidden songs on your walk, chosen by people, not algorithms Discussion | Link",
+          "visual_query": "Meadow visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Meadow"
+      ],
+      "sources": [
+        "https://www.producthunt.com/products/meadow-3"
+      ],
+      "needs_human_review": true,
+      "id": "cd-f8c60b9f86c967b2",
+      "topic_id": "f8c60b9f86c967b2",
+      "created_at": "2026-11-08T06:19:36.201230+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Kivo",
+      "narration": "Here's something worth discovering. Kivo. Free on device dictation for any Mac app and AI agent Discussion | Link. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Kivo — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Kivo",
+          "visual_query": "Kivo",
+          "duration": 8
+        },
+        {
+          "text": "Free on device dictation for any Mac app and AI agent Discussion | Link",
+          "visual_query": "Kivo visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Kivo"
+      ],
+      "sources": [
+        "https://www.producthunt.com/products/kivo-4"
+      ],
+      "needs_human_review": true,
+      "id": "cd-0a800d80aca4e36c",
+      "topic_id": "0a800d80aca4e36c",
+      "created_at": "2026-11-08T06:19:36.201265+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions.",
+      "narration": "Here's something worth discovering. TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions.. &#32; submitted by &#32; /u/Parlu10 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions.",
+          "visual_query": "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/Parlu10 [link] &#32; [comments]",
+          "visual_query": "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL about kitsunebi. InJapanese folklore, they're small lights appearing in desolate places where there's no presence of humans. Since foxes (kitsune in Japanese) like to trick humans, kitsunebi make humans lose their way. However details vary across regions."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xn8wkx/til_about_kitsunebi_injapanese_folklore_theyre/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-e3a0ce67aac52a15",
+      "topic_id": "e3a0ce67aac52a15",
+      "created_at": "2026-11-08T06:19:36.201287+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }

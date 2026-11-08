@@ -53,7 +53,7 @@
       "published": "2026-11-03T23:38:50+00:00",
       "discovered_at": "2026-11-04T13:14:13.441674+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "97fe2f5b498e985e",
@@ -1582,7 +1582,7 @@
       "published": "2026-09-22T11:01:44-07:00",
       "discovered_at": "2026-11-06T19:23:39.590954+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "9f971b8f0463ae50",
@@ -1791,7 +1791,7 @@
       "published": "2026-11-05T09:51:26-08:00",
       "discovered_at": "2026-11-07T05:57:11.727608+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "2158f96892db530c",
@@ -2824,6 +2824,28 @@
       "source": "science.nasa.gov",
       "published": "Fri, 06 Nov 2026 16:03:52 +0000",
       "discovered_at": "2026-11-08T05:59:25.675544+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d984a4f79d0ae30b",
+      "title": "TIL that in late December 1891, there was Han Chinese secret society called Jindandao who rose in revolt in Inner Mongolia in November 1891 and genocidally massacred 150,000–500,000 Mongols. This massacre was later dubbed an incident by Chinese officials.",
+      "summary": "&#32; submitted by &#32; /u/gioroaizin [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xqqbvk/til_that_in_late_december_1891_there_was_han/",
+      "source": "www.reddit.com",
+      "published": "2026-11-08T05:01:22+00:00",
+      "discovered_at": "2026-11-08T06:19:35.578314+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "c5735a9332ef7ad4",
+      "title": "TIL the great horse manure crisis of 1894 is an urban myth that a significant obstacle to urban development at the turn of the 20th century was the difficulty of removing horse manure from the streets of major Western cities.",
+      "summary": "&#32; submitted by &#32; /u/AetheriaNox [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xqqzsy/til_the_great_horse_manure_crisis_of_1894_is_an/",
+      "source": "www.reddit.com",
+      "published": "2026-11-08T05:40:17+00:00",
+      "discovered_at": "2026-11-08T06:19:35.578032+00:00",
       "score": 22.2,
       "status": "new"
     }
