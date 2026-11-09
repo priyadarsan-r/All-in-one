@@ -3078,7 +3078,7 @@
       "published": "2026-11-08T17:51:29+00:00",
       "discovered_at": "2026-11-08T22:03:46.746798+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "dddd0bd743f4b6c5",
@@ -3199,7 +3199,7 @@
       "published": "Sun, 08 Nov 2026 15:26:38 +0000",
       "discovered_at": "2026-11-09T06:24:50.829116+00:00",
       "score": 33.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "ba3c632bea714f7a",
@@ -3210,7 +3210,7 @@
       "published": "2026-11-09T02:25:29+00:00",
       "discovered_at": "2026-11-09T06:24:50.081576+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "aff8bef07e825c2f",
@@ -3407,6 +3407,28 @@
       "source": "www.reddit.com",
       "published": "2026-11-09T05:18:06+00:00",
       "discovered_at": "2026-11-09T06:24:50.082631+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "93642253d1b6ecae",
+      "title": "Today I learned there are 6 different cosmic objects nicknamed the \"Eye of Sauron\"",
+      "summary": "&#32; submitted by &#32; /u/mdosis [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xrjcze/today_i_learned_there_are_6_different_cosmic/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T05:25:15+00:00",
+      "discovered_at": "2026-11-09T06:52:55.535142+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ede44115df72b3e7",
+      "title": "Ozone Hole Reaches Its 2026 Maximum",
+      "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+      "source": "science.nasa.gov",
+      "published": "Mon, 09 Nov 2026 05:00:00 +0000",
+      "discovered_at": "2026-11-09T06:52:56.114740+00:00",
       "score": 22.2,
       "status": "new"
     }

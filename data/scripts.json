@@ -584,6 +584,123 @@
       "created_at": "2026-11-08T06:19:36.201287+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Announces $1 Million to Students for Moon Base Challenge",
+      "narration": "Here's something worth discovering. NASA Announces $1 Million to Students for Moon Base Challenge. On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Announces $1 Million to Students for Moon Base Challenge — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Announces $1 Million to Students for Moon Base Challenge",
+          "visual_query": "NASA Announces $1 Million to Students for Moon Base Challenge",
+          "duration": 8
+        },
+        {
+          "text": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy ",
+          "visual_query": "NASA Announces $1 Million to Students for Moon Base Challenge visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Announces $1 Million to Students for Moon Base Challenge"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-e9b3528d25cc9a47",
+      "topic_id": "e9b3528d25cc9a47",
+      "created_at": "2026-11-09T06:52:56.330327+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue.",
+      "narration": "Here's something worth discovering. TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue.. &#32; submitted by &#32; /u/Punch_A_Police_Horse [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue.",
+          "visual_query": "TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/Punch_A_Police_Horse [link] &#32; [comments]",
+          "visual_query": "TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL people with blue eyes don't have any blue color pigments, rather it's how we perceive light refracting similar to how we perceive the sky and ocean as blue."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xr4epp/til_people_with_blue_eyes_dont_have_any_blue/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-04ef54a753c57406",
+      "topic_id": "04ef54a753c57406",
+      "created_at": "2026-11-09T06:52:56.330355+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts",
+      "narration": "Here's something worth discovering. TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts. &#32; submitted by &#32; /u/MysteriousClassic789 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts",
+          "visual_query": "TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/MysteriousClassic789 [link] &#32; [comments]",
+          "visual_query": "TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL Sergeant Stubby 1915 – March 16, 1926 was a dog who served in World War I and travelled with his division to France. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He received awards, including a gold medal, a wound stripe, and two purple hearts"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xrfyyu/til_sergeant_stubby_1915_march_16_1926_was_a_dog/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-ba3c632bea714f7a",
+      "topic_id": "ba3c632bea714f7a",
+      "created_at": "2026-11-09T06:52:56.330366+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
