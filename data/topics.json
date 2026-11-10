@@ -64,7 +64,7 @@
       "published": "Tue, 03 Nov 2026 05:05:00 +0000",
       "discovered_at": "2026-11-04T13:14:13.927487+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "01f21d37543747c3",
@@ -713,7 +713,7 @@
       "published": "2026-11-05T01:28:45+00:00",
       "discovered_at": "2026-11-05T06:45:02.443114+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "2d831006e6e0c241",
@@ -3441,7 +3441,7 @@
       "published": "Mon, 09 Nov 2026 18:55:50 +0000",
       "discovered_at": "2026-11-09T22:20:59.914631+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "1cd8d2b53f0cef25",
@@ -3869,6 +3869,226 @@
       "source": "www.reddit.com",
       "published": "2026-11-10T04:28:20+00:00",
       "discovered_at": "2026-11-10T07:16:22.089046+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "db8a3b217c3220da",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 10 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-10T07:30:26.124575+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "f8805c4a5faa5e64",
+      "title": "Newest Sample, Oldest Rock?",
+      "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]",
+      "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "source": "science.nasa.gov",
+      "published": "Mon, 09 Nov 2026 22:25:52 +0000",
+      "discovered_at": "2026-11-10T07:30:26.125150+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "e8053531cd10ccec",
+      "title": "Autumn Mornings Bring Valley Fog",
+      "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 10 Nov 2026 05:00:00 +0000",
+      "discovered_at": "2026-11-10T07:30:26.124788+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "f6df590984351382",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 10 Nov 2026 01:07:45 +0000",
+      "discovered_at": "2026-11-10T07:30:26.124882+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "cc0c6af0619cfa21",
+      "title": "TIL in the 1970s, Toronto Maple Leafs owner Harold Ballard refused to put names on jerseys as he wanted fans to buy game programs to identify players by number. When the NHL mandated names in 1977, he rebelled by printing blue names on blue (and white on white) before finally being forced to comply.",
+      "summary": "&#32; submitted by &#32; /u/waitingforthesun92 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xs48i8/til_in_the_1970s_toronto_maple_leafs_owner_harold/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T21:24:33+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612172+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "34d3ce3ba17ffd47",
+      "title": "TIL: GM used to ship their Chevy Vegas standing up instead of lying flat on trains (it reduced shipping costs by 40% due to the dense packaging)",
+      "summary": "&#32; submitted by &#32; /u/hypermiler2205 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xs1gud/til_gm_used_to_ship_their_chevy_vegas_standing_up/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T19:39:30+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612398+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "607b86a54a057689",
+      "title": "TIL the bony-eared assfish may have the smallest brain-to-body weight ratio of all known vertebrates",
+      "summary": "&#32; submitted by &#32; /u/Ophelia_Y2K [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xs6686/til_the_bonyeared_assfish_may_have_the_smallest/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T22:41:21+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612506+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "975ef048157f1b67",
+      "title": "TIL in 1980, after Republicans failed to nominate a candidate for a U.S. House seat in New Mexico, Joe Skeen launched a write-in campaign and won with 61,564 votes. He became just the third person in American history elected to the U.S. House as a write-in candidate. He served for 22 years.",
+      "summary": "&#32; submitted by &#32; /u/carboncopy95437 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xs1k5m/til_in_1980_after_republicans_failed_to_nominate/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T19:42:55+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612604+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "aa349c64ba44bee2",
+      "title": "TIL that Rowan Atkinson once received a record high car insurance payment of £910000. In 2011 he was involved in a serious crash after loosing control of his rare McLaren F1 and colliding with a tree.",
+      "summary": "&#32; submitted by &#32; /u/johnsmithoncemore [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xro4i7/til_that_rowan_atkinson_once_received_a_record/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T10:19:14+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612705+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "42d2645eac9e304c",
+      "title": "TIL that earthquake magnitudes are no longer reported using the Richter Scale, but instead use the Moment Magnitude Scale",
+      "summary": "&#32; submitted by &#32; /u/Important-Ad4500 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xrr6ez/til_that_earthquake_magnitudes_are_no_longer/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T13:06:18+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612811+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "443f9290093ca06f",
+      "title": "TIL that when President Jefferson write to the Danbury Baptists and coined the phrase \"separation between church and state,\" he did so in response to a letter they wrote him in which they expressed their concerns about being repressed by the state's Congregationalist majority",
+      "summary": "&#32; submitted by &#32; /u/MrMojoFomo [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xryf8o/til_that_when_president_jefferson_write_to_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T17:48:44+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612883+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c81984e85f8dad97",
+      "title": "TIL about Polari, the 20th century British slang dialect used as code identifying for various subcultures, predominantly the underground homosexual community. With influences of Romani, Yiddish, and Cockney, it's where words like \"zhuzh\" originally propagated.",
+      "summary": "&#32; submitted by &#32; /u/celticdude234 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xryeuk/til_about_polari_the_20th_century_british_slang/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T17:48:22+00:00",
+      "discovered_at": "2026-11-10T07:30:25.612954+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "77715985c6569671",
+      "title": "TIL for the international versions of The Shining film, Kubrick replaced \"All work and no play makes Jack a dull boy\" with idioms from different languages, including the Italian \"The morning has gold in its mouth\" and the French \"A bird in the hand is worth two in the bush.\"",
+      "summary": "&#32; submitted by &#32; /u/WouldbeWanderer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xrrsz1/til_for_the_international_versions_of_the_shining/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T13:35:16+00:00",
+      "discovered_at": "2026-11-10T07:30:25.613026+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7d473e30057cc203",
+      "title": "TIL in 1978, a film crew re-lettered a 730-foot freighter to look like the SS Edmund Fitzgerald for a cancelled film titled “The November Gale”. When it sailed through Lake Superior, it caused panic and controversy among onlookers and other vessels, who reported seeing a “ghost ship” on the water.",
+      "summary": "&#32; submitted by &#32; /u/waitingforthesun92 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xsg4y8/til_in_1978_a_film_crew_relettered_a_730foot/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T06:51:46+00:00",
+      "discovered_at": "2026-11-10T07:30:25.613101+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c52823538835cfb3",
+      "title": "TIL the Slow Loris is a two-tongued nocturnal Primate, and is the only known venomous primate. Slow Lorises are known to groom themselves and their young with their toothcomb depositing the toxin on their fur to protect against predators. It also uses its secondary tongue as a toothbrush for debris.",
+      "summary": "&#32; submitted by &#32; /u/WestTransportation12 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xs1wji/til_the_slow_loris_is_a_twotongued_nocturnal/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T19:55:54+00:00",
+      "discovered_at": "2026-11-10T07:30:25.613196+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "320677b6c8cad0e1",
+      "title": "TIL that the Mack M100SX had a 29.3-liter V12 diesel engine producing 1,000 hp, but its top speed was only 28 mph (45 kph) and it weighs nearly 48 tons before you even add a load. Only three were produced and only one survives today.",
+      "summary": "&#32; submitted by &#32; /u/ManagerGames [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xrkosn/til_that_the_mack_m100sx_had_a_293liter_v12/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T06:42:25+00:00",
+      "discovered_at": "2026-11-10T07:30:25.613268+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7dd633dda0957a53",
+      "title": "TIL in 2013, a team of Stanford researchers led by Dr. Christina Smolke genetically engineered yeast to produce hydrocodone, an opoid, in just 3 to 5 days, unlike the agricultural path which take more than a year",
+      "summary": "&#32; submitted by &#32; /u/Johannes_P [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xro56z/til_in_2013_a_team_of_stanford_researchers_led_by/",
+      "source": "www.reddit.com",
+      "published": "2026-11-09T10:20:24+00:00",
+      "discovered_at": "2026-11-10T07:30:25.613356+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "21640006adc1fb5c",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 10 Nov 2026 01:05:48 +0000",
+      "discovered_at": "2026-11-10T07:30:26.124975+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ae71860bd39896d3",
+      "title": "Rubies on Mars?",
+      "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]",
+      "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "source": "science.nasa.gov",
+      "published": "Mon, 09 Nov 2026 22:27:12 +0000",
+      "discovered_at": "2026-11-10T07:30:26.125064+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "457fb20b013094fb",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a [&#8230;]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "source": "www.nasa.gov",
+      "published": "Mon, 09 Nov 2026 19:27:20 +0000",
+      "discovered_at": "2026-11-10T07:30:26.125233+00:00",
       "score": 22.2,
       "status": "new"
     }

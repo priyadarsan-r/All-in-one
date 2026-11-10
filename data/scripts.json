@@ -701,6 +701,123 @@
       "created_at": "2026-11-09T06:52:56.330366+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "narration": "Here's something worth discovering. NASA’s Chandra Finds Source of Star’s Mysterious Outbursts. Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, detai. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+          "visual_query": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+          "duration": 8
+        },
+        {
+          "text": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, ",
+          "visual_query": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts"
+      ],
+      "sources": [
+        "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-ff239c8a6e127db2",
+      "topic_id": "ff239c8a6e127db2",
+      "created_at": "2026-11-10T07:30:26.399462+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "narration": "Here's something worth discovering. APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor. APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+          "visual_query": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+          "duration": 8
+        },
+        {
+          "text": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Di",
+          "visual_query": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor"
+      ],
+      "sources": [
+        "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-97fe2f5b498e985e",
+      "topic_id": "97fe2f5b498e985e",
+      "created_at": "2026-11-10T07:30:26.399490+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree",
+      "narration": "Here's something worth discovering. TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree. &#32; submitted by &#32; /u/ubcstaffer123 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree",
+          "visual_query": "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/ubcstaffer123 [link] &#32; [comments]",
+          "visual_query": "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xo5yyk/til_the_california_fan_palm_tree_was_very/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-85310a7bf2f56597",
+      "topic_id": "85310a7bf2f56597",
+      "created_at": "2026-11-10T07:30:26.399506+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
