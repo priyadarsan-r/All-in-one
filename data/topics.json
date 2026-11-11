@@ -4101,7 +4101,7 @@
       "published": "Tue, 10 Nov 2026 16:00:26 +0000",
       "discovered_at": "2026-11-10T19:43:09.836727+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "8feb388d5c17ca59",
@@ -4112,7 +4112,7 @@
       "published": "Tue, 10 Nov 2026 19:22:45 +0000",
       "discovered_at": "2026-11-10T19:43:09.836293+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "c7bce026ed30d5a0",
@@ -4123,7 +4123,7 @@
       "published": "2026-11-09T09:29:48-08:00",
       "discovered_at": "2026-11-10T19:43:08.501759+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "57d6c419cab232c2",
@@ -4529,6 +4529,226 @@
       "source": "www.producthunt.com",
       "published": "2026-11-09T11:41:51-08:00",
       "discovered_at": "2026-11-11T06:16:38.540770+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5f4e7208ff6d9eb2",
+      "title": "Seldon",
+      "summary": "Behavioral QA agents that use your product like customers do Discussion | Link",
+      "url": "https://www.producthunt.com/products/seldon",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T17:18:21-08:00",
+      "discovered_at": "2026-11-11T06:46:58.619775+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "def29effb0eea7d7",
+      "title": "Alsona",
+      "summary": "AI agents that turn buying signals into booked sales calls Discussion | Link",
+      "url": "https://www.producthunt.com/products/alsona",
+      "source": "www.producthunt.com",
+      "published": "2026-10-21T08:41:38-07:00",
+      "discovered_at": "2026-11-11T06:46:58.619571+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2352776f304cc43f",
+      "title": "Opal Reader",
+      "summary": "Read PDFs and EPUBs on iPhone Duo Discussion | Link",
+      "url": "https://www.producthunt.com/products/opal-reader",
+      "source": "www.producthunt.com",
+      "published": "2026-11-07T19:57:34-08:00",
+      "discovered_at": "2026-11-11T06:46:58.619914+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2e8495c0c6a84a45",
+      "title": "Billing MCP By SubscriptionFlow",
+      "summary": "Open Source AI Agent to Run Your Subscription Billing Discussion | Link",
+      "url": "https://www.producthunt.com/products/subscriptionflow-ai-billing-mcp",
+      "source": "www.producthunt.com",
+      "published": "2026-10-15T00:32:33-07:00",
+      "discovered_at": "2026-11-11T06:46:58.620052+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8b40f244a29835d2",
+      "title": "TK by Medium",
+      "summary": "An agentic notebook to build your best thinking Discussion | Link",
+      "url": "https://www.producthunt.com/products/medium",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T06:33:24-08:00",
+      "discovered_at": "2026-11-11T06:46:58.620227+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "cfac9510a1cbd771",
+      "title": "Daytwo",
+      "summary": "Let your team change your custom site without touching code Discussion | Link",
+      "url": "https://www.producthunt.com/products/daytwo-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T07:17:34-08:00",
+      "discovered_at": "2026-11-11T06:46:58.620449+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "87686a9743e82b42",
+      "title": "TIL the armistice ending WWI was agreed at 5 a.m. on November 11, 1918, but didn't take effect until 11 a.m. Fighting continued all morning, and 2,738 men died that final day. Henry Gunther, widely regarded as the war's last combat death, was shot 60 seconds before the ceasefire.",
+      "summary": "&#32; submitted by &#32; /u/irish_burke [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt5zug/til_the_armistice_ending_wwi_was_agreed_at_5_am/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T02:25:53+00:00",
+      "discovered_at": "2026-11-11T06:46:59.198884+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8401c3232668ff98",
+      "title": "TIL that Gordon Lightfoot wrote \"The Wreck of the Edmund Fitzgerald\" before the ship's wreckage had been found and studied. As more information became available, he changed the lyrics in his live performances to fit the facts.",
+      "summary": "&#32; submitted by &#32; /u/thebananahotdog [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xsxhxh/til_that_gordon_lightfoot_wrote_the_wreck_of_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T20:19:04+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199145+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4c9f69ea1d759357",
+      "title": "TIL that SS Edmund Fitzgerald’s fateful voyage on Nov. 10th, 1975 was intended to be last trip of the freighter’s crew that year, and the final voyage of Captain McSorley’s career before his retirement. McSorley’s last message was “we are holding our own” before all contact was lost around 7:15 PM.",
+      "summary": "&#32; submitted by &#32; /u/waitingforthesun92 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xswdhp/til_that_ss_edmund_fitzgeralds_fateful_voyage_on/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T19:35:39+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199294+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "84e08c470826e414",
+      "title": "TIL in Germany, they have something called a frauenparkplatz, parking spots dedicated to women, closer to exists, in areas with more surveillance and better lighting for safety. They are also sometimes wider.",
+      "summary": "&#32; submitted by &#32; /u/Banana2358 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xsmrb3/til_in_germany_they_have_something_called_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T13:22:05+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199456+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "75c3cd0c91b84bf9",
+      "title": "TIL Grand Bush, who played Balrog in Street Fighter, and was in Lethal Weapon and Die Hard, retired from acting in 2003 and became a doctor",
+      "summary": "&#32; submitted by &#32; /u/Wonderful-Cup8908 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt0sf3/til_grand_bush_who_played_balrog_in_street/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T22:31:20+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199602+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "581ab5c06da881d4",
+      "title": "TIL SS Edmund Fitzgerald Captain Ernest M. McSorley was on his final trip before retirement when the ship was lost.",
+      "summary": "&#32; submitted by &#32; /u/tdfast [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt78s8/til_ss_edmund_fitzgerald_captain_ernest_m/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T03:27:18+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199747+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b1ba4b5c4f22cbdf",
+      "title": "TIL that only one woman has ever received the Medal of Honor, Dr. Mary Walker for treating patients in battle and across enemy lines during the Civil War.",
+      "summary": "&#32; submitted by &#32; /u/DrakeSavory [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xsro23/til_that_only_one_woman_has_ever_received_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T16:39:15+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199876+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f8df45cc6825ddee",
+      "title": "TIL that the climactic scene of the movie The Graduate (1967) was not scripted. Director Mike Nichols let the camera continue rolling after the action and dialogue were completed, believing that the awkwardness and uncertainty of the actors was far more compelling and realistic.",
+      "summary": "&#32; submitted by &#32; /u/JohnArtemus [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt6ptv/til_that_the_climactic_scene_of_the_movie_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T03:01:09+00:00",
+      "discovered_at": "2026-11-11T06:46:59.199989+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "57aa97d48432bfb9",
+      "title": "TIL JRR Tolkien helped in a translation of the Bible into English (Jerusalem Bible), but due to time constraints he only worked on the book of Jonah, and after edits only a few lines of his actual work remain in the published text.",
+      "summary": "&#32; submitted by &#32; /u/Sanguinusshiboleth [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt2owf/til_jrr_tolkien_helped_in_a_translation_of_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T23:53:45+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200137+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a83953bd489e1d90",
+      "title": "TIL leadership skills at age 17-20 among men correlate positively with family formation. This is according to a Swedish study where 650,941 men were assessed at military conscription (age 17-20). Higher leadership ratings meant more marriages, more children, less childlessness, at age 39 or older.",
+      "summary": "&#32; submitted by &#32; /u/Illustrious_Gap1681 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xsvjg5/til_leadership_skills_at_age_1720_among_men/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T19:03:29+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200278+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2a1812b4552523c3",
+      "title": "TIL that Oymyakon, Siberia, is the coldest permanently inhabited place on Earth. Winter temperatures average around −50°C (−58°F) and have dropped to nearly −68°C (−90°F). Schools only close when it falls below roughly −55°C (−67°F)—and an electronic thermometer reportedly burst at −62°C (−80°F).",
+      "summary": "&#32; submitted by &#32; /u/haphazard44 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xskgor/til_that_oymyakon_siberia_is_the_coldest/",
+      "source": "www.reddit.com",
+      "published": "2026-11-10T11:25:10+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200450+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "e3d791e4afeabbe9",
+      "title": "TIL that Robert Bunsen, best known for developing the laboratory gas burner that bears his name, also helped discover two chemical elements: cesium in 1860 and rubidium in 1861.",
+      "summary": "&#32; submitted by &#32; /u/carboncopy95437 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt74kz/til_that_robert_bunsen_best_known_for_developing/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T03:21:24+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200579+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "1daf71983f72816f",
+      "title": "TIL about an egg corn, the alteration of a word or phrase through the mishearing or reinterpretation of one or more of its elements, creating a new phrase that is plausible when used in the same context.",
+      "summary": "&#32; submitted by &#32; /u/JosZo [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xta00u/til_about_an_egg_corn_the_alteration_of_a_word_or/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T05:55:12+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200691+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "533a22991a27f617",
+      "title": "TIL Stevie Ray Vaughan's first studio recording was with a band that included future actor Stephen Tobolowsky",
+      "summary": "&#32; submitted by &#32; /u/mclardass [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xt7bih/til_stevie_ray_vaughans_first_studio_recording/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T03:31:07+00:00",
+      "discovered_at": "2026-11-11T06:46:59.200823+00:00",
       "score": 22.2,
       "status": "new"
     }

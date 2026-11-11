@@ -818,6 +818,123 @@
       "created_at": "2026-11-10T07:30:26.399506+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "narration": "Here's something worth discovering. NASA Scientists Show How Gravitational Waves Can Reveal New Worlds. The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show i. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+          "visual_query": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+          "duration": 8
+        },
+        {
+          "text": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny",
+          "visual_query": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds"
+      ],
+      "sources": [
+        "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-d0fdaf0d69a26793",
+      "topic_id": "d0fdaf0d69a26793",
+      "created_at": "2026-11-11T06:47:00.126237+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "narration": "Here's something worth discovering. NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities. Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+          "visual_query": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+          "duration": 8
+        },
+        {
+          "text": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth",
+          "visual_query": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-8feb388d5c17ca59",
+      "topic_id": "8feb388d5c17ca59",
+      "created_at": "2026-11-11T06:47:00.126273+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Tokens by UI Colors",
+      "narration": "Here's something worth discovering. Tokens by UI Colors. Build your product’s visual language with design tokens Discussion | Link. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Tokens by UI Colors — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Tokens by UI Colors",
+          "visual_query": "Tokens by UI Colors",
+          "duration": 8
+        },
+        {
+          "text": "Build your product’s visual language with design tokens Discussion | Link",
+          "visual_query": "Tokens by UI Colors visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Tokens by UI Colors"
+      ],
+      "sources": [
+        "https://www.producthunt.com/products/tokens-by-ui-colors"
+      ],
+      "needs_human_review": true,
+      "id": "cd-c7bce026ed30d5a0",
+      "topic_id": "c7bce026ed30d5a0",
+      "created_at": "2026-11-11T06:47:00.126296+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
