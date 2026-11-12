@@ -724,7 +724,7 @@
       "published": "Thu, 05 Nov 2026 05:05:00 +0000",
       "discovered_at": "2026-11-05T06:45:03.044802+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "0e800ed9841dca01",
@@ -735,7 +735,7 @@
       "published": "Thu, 05 Nov 2026 05:01:00 +0000",
       "discovered_at": "2026-11-05T06:45:03.045032+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "7628b02ce9bd6b72",
@@ -4134,7 +4134,7 @@
       "published": "2026-11-10T17:37:52+00:00",
       "discovered_at": "2026-11-10T19:43:09.197230+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "cae462c7dee1a936",
@@ -5189,6 +5189,149 @@
       "source": "www.reddit.com",
       "published": "2026-11-11T18:00:13+00:00",
       "discovered_at": "2026-11-12T00:42:27.311477+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "0fdac7b28d3cba89",
+      "title": "TIL the Greek Parthenon was twice converted to a mosque",
+      "summary": "&#32; submitted by &#32; /u/Worldly-Appeal7643 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xtyvxc/til_the_greek_parthenon_was_twice_converted_to_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T00:47:58+00:00",
+      "discovered_at": "2026-11-12T07:25:38.326134+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "66535047597f18ce",
+      "title": "TIL the world’s richest monarch is King Maha Vajiralongkorn (Rama X) of Thailand, whose fortune is estimated at $30 billion or more. Despite ruling Thailand, he has spent much of his time living in Bavaria, Germany, where he owns lakeside property.",
+      "summary": "&#32; submitted by &#32; /u/carboncopy95437 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu0gq4/til_the_worlds_richest_monarch_is_king_maha/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T02:03:00+00:00",
+      "discovered_at": "2026-11-12T07:25:38.324906+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "f03de888fdb6a939",
+      "title": "TIL that in 1944, the US Navy deployed one of the world's first armed combat drones, the TDR, which could carry and release bombs or torpedoes and was remotely controlled using a live television feed.",
+      "summary": "&#32; submitted by &#32; /u/Kwpthrowaway2 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu0yxx/til_that_in_1944_the_us_navy_deployed_one_of_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T02:27:44+00:00",
+      "discovered_at": "2026-11-12T07:25:38.326296+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "71f5f359ccc6ed2f",
+      "title": "TIL of Mary Hardy Reeser, the 1951 \"Cinder Woman\" whose body burned almost entirely to ash while leaving the surrounding room virtually untouched. Though popular culture blamed spontaneous human combustion, the FBI attributed her death to the \"wick effect\".",
+      "summary": "&#32; submitted by &#32; /u/Apprehensive_Map1074 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu1gbu/til_of_mary_hardy_reeser_the_1951_cinder_woman/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T02:51:36+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325140+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "c1a60f9a6db3667a",
+      "title": "TIL The Humbolt Squid reaches lengths of up to six feet and can weigh nearly one hundred pounds. They have incredible eyesight, a razor-sharp beak, eight tentacles with hooks on their suckers and they can hunt in groups of up to 1500.",
+      "summary": "&#32; submitted by &#32; /u/CarltonSagot [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xtz7my/til_the_humbolt_squid_reaches_lengths_of_up_to/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T01:03:08+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325725+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "51880e6fab6471ef",
+      "title": "TIL Saddam Hussein commissioned an entire Quran to be handwritten using approximately 27 litres of his own blood over two years.",
+      "summary": "&#32; submitted by &#32; /u/FearMyCock [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu5zs2/til_saddam_hussein_commissioned_an_entire_quran/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T06:56:51+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325983+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "8a6d21026a39401a",
+      "title": "TIL that in 1925, Floyd Collins was trapped under a pile of gravel while working in Sand Cave, Kentucky. Despite a massive rescue effort, he died after two weeks of being trapped in the cave.",
+      "summary": "&#32; submitted by &#32; /u/Sebastianlim [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu2qx0/til_that_in_1925_floyd_collins_was_trapped_under/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T03:55:57+00:00",
+      "discovered_at": "2026-11-12T07:25:38.326509+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "ae094bf89f429721",
+      "title": "TIL Mike Myers was legally obligated to play The Cat in the Hat. Part of the settlement for dropping out of the planned Sprockets/Dieter film was that he owed Universal and Imagine studios a role in a future film of their choosing.",
+      "summary": "&#32; submitted by &#32; /u/rozzimos-3 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu1594/til_mike_myers_was_legally_obligated_to_play_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T02:36:31+00:00",
+      "discovered_at": "2026-11-12T07:25:38.324684+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "696869cccad9b790",
+      "title": "TIL that there was a frivolous political party in Canada called the Lemon Party who wanted to abolish Toronto and repeal the law of gravity",
+      "summary": "&#32; submitted by &#32; /u/starryterra [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xtyanf/til_that_there_was_a_frivolous_political_party_in/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T00:20:31+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325343+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "1f08faabeb6e14a8",
+      "title": "TIL That a town in California called Calexico sits right across the Mexico/US border from the capital city of Baja California; Mexicali",
+      "summary": "&#32; submitted by &#32; /u/SkyKyrell [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xtz8ar/til_that_a_town_in_california_called_calexico/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T01:04:00+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325477+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ac6ba4b88cb86b01",
+      "title": "TIL that sturgeon isn’t considered kosher, because its scales are difficult to remove",
+      "summary": "&#32; submitted by &#32; /u/flopsyplum [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xttzja/til_that_sturgeon_isnt_considered_kosher_because/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T21:18:43+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325590+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a5522cf8fac9b25e",
+      "title": "TIL that the Book of Esther and the Songs of Solomon are the only books of the Bible to not directly mention God in any of their chapters.",
+      "summary": "&#32; submitted by &#32; /u/Obvious-Desk4573 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xtvcb2/til_that_the_book_of_esther_and_the_songs_of/",
+      "source": "www.reddit.com",
+      "published": "2026-11-11T22:13:17+00:00",
+      "discovered_at": "2026-11-12T07:25:38.325869+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "03ea938220f93644",
+      "title": "TIL there are 19 individuals with two US Medals of Honor",
+      "summary": "&#32; submitted by &#32; /u/CloisteredOyster [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xu3255/til_there_are_19_individuals_with_two_us_medals/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T04:11:48+00:00",
+      "discovered_at": "2026-11-12T07:25:38.326403+00:00",
       "score": 22.2,
       "status": "new"
     }

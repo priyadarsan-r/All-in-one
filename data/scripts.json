@@ -935,6 +935,123 @@
       "created_at": "2026-11-11T06:47:00.126296+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why.",
+      "narration": "Here's something worth discovering. TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why.. &#32; submitted by &#32; /u/casuspenguen [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why.",
+          "visual_query": "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/casuspenguen [link] &#32; [comments]",
+          "visual_query": "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xst8ea/til_about_the_final_parsec_problem_when_two/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-57d6c419cab232c2",
+      "topic_id": "57d6c419cab232c2",
+      "created_at": "2026-11-12T07:25:38.953928+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: APOD: 2026 November 5 – Enceladus in Silhouette",
+      "narration": "Here's something worth discovering. APOD: 2026 November 5 – Enceladus in Silhouette. APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "APOD: 2026 November 5 – Enceladus in Silhouette — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "APOD: 2026 November 5 – Enceladus in Silhouette",
+          "visual_query": "APOD: 2026 November 5 – Enceladus in Silhouette",
+          "duration": 8
+        },
+        {
+          "text": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Di",
+          "visual_query": "APOD: 2026 November 5 – Enceladus in Silhouette visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "APOD: 2026 November 5 – Enceladus in Silhouette"
+      ],
+      "sources": [
+        "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-2d831006e6e0c241",
+      "topic_id": "2d831006e6e0c241",
+      "created_at": "2026-11-12T07:25:38.953965+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "narration": "Here's something worth discovering. Cyprus: Island of Snakes, Cats, and Ophiolites. The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Cyprus: Island of Snakes, Cats, and Ophiolites — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+          "visual_query": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+          "duration": 8
+        },
+        {
+          "text": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cat",
+          "visual_query": "Cyprus: Island of Snakes, Cats, and Ophiolites visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Cyprus: Island of Snakes, Cats, and Ophiolites"
+      ],
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-0e800ed9841dca01",
+      "topic_id": "0e800ed9841dca01",
+      "created_at": "2026-11-12T07:25:38.953983+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
