@@ -5344,7 +5344,7 @@
       "published": "Thu, 12 Nov 2026 13:00:00 +0000",
       "discovered_at": "2026-11-12T15:13:11.540699+00:00",
       "score": 38.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "6b7960216141780d",
@@ -5355,7 +5355,7 @@
       "published": "2026-11-12T14:24:31+00:00",
       "discovered_at": "2026-11-12T15:13:11.154350+00:00",
       "score": 36.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "0a0b44bf5ed03604",
@@ -5564,7 +5564,7 @@
       "published": "Thu, 12 Nov 2026 17:54:32 +0000",
       "discovered_at": "2026-11-12T23:38:58.744206+00:00",
       "score": 35.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "b7b656f357e7686a",
@@ -5992,6 +5992,94 @@
       "source": "www.reddit.com",
       "published": "2026-11-12T23:15:21+00:00",
       "discovered_at": "2026-11-13T06:43:13.923095+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ae8d4bcba581a9ba",
+      "title": "TIL I learned that Carl Steven, the actor who voiced Fred Jones in A Pup Named Scooby-Doo, ended up dying from a heroin overdose while serving over a decade in prison for armed robbery",
+      "summary": "&#32; submitted by &#32; /u/One_Reception_9004 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xum7p6/til_i_learned_that_carl_steven_the_actor_who/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T19:29:42+00:00",
+      "discovered_at": "2026-11-13T06:57:09.370266+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c04991fd8174ab9b",
+      "title": "TIL About the El Reno Tornado in 2013, the widest ever recorded at 2.6 miles (~4.2 Km) wide, several times larger than the entire Vatican City, and over 300 mph estimated wind speeds (~500 kph). It was also the first and only time that storm chasers have been killed by a tornado.",
+      "summary": "&#32; submitted by &#32; /u/L_knight316 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xuk4jo/til_about_the_el_reno_tornado_in_2013_the_widest/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T18:12:59+00:00",
+      "discovered_at": "2026-11-13T06:57:09.370544+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "bf1bb41f8e0b82b5",
+      "title": "TIL Grand Tour cyclists (such the Tour de France) burn 5,000-8,000 calories on a mountain stage and up to 10,000 calories in daily expenditure.",
+      "summary": "&#32; submitted by &#32; /u/Double-decker_trams [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xucbaz/til_grand_tour_cyclists_such_the_tour_de_france/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T13:07:45+00:00",
+      "discovered_at": "2026-11-13T06:57:09.370670+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "739c944b11cbe77b",
+      "title": "TIL about the Social Register, which has catalogued the members of \"high society\" since the 1880s, and which still exists today despite it waning in importance since the late 20th century",
+      "summary": "&#32; submitted by &#32; /u/Count_Dongula [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xushja/til_about_the_social_register_which_has/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T23:43:36+00:00",
+      "discovered_at": "2026-11-13T06:57:09.370787+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "63441960c56255da",
+      "title": "TIL that in 1500, members of the Baglioni noble family murdered their own kin in an attempted coup known as the \"Red Wedding\", a massacre which was committed during wedding celebrations.",
+      "summary": "&#32; submitted by &#32; /u/Fickle-Buy6009 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xug9sg/til_that_in_1500_members_of_the_baglioni_noble/",
+      "source": "www.reddit.com",
+      "published": "2026-11-12T15:50:38+00:00",
+      "discovered_at": "2026-11-13T06:57:09.370914+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6b506428add704a2",
+      "title": "A Global Rebound for Mangroves",
+      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "source": "science.nasa.gov",
+      "published": "Fri, 13 Nov 2026 05:01:00 +0000",
+      "discovered_at": "2026-11-13T06:57:09.674461+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b69471efe922b6f1",
+      "title": "I Am Artemis Katie Spicer",
+      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;]",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "source": "www.nasa.gov",
+      "published": "Thu, 12 Nov 2026 20:10:02 +0000",
+      "discovered_at": "2026-11-13T06:57:09.674689+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5c905959c6937bf3",
+      "title": "Scotland’s Flow Country",
+      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "source": "science.nasa.gov",
+      "published": "Thu, 12 Nov 2026 05:01:00 +0000",
+      "discovered_at": "2026-11-13T06:57:09.674944+00:00",
       "score": 22.2,
       "status": "new"
     }
