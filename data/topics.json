@@ -5366,7 +5366,7 @@
       "published": "Thu, 12 Nov 2026 13:18:40 +0000",
       "discovered_at": "2026-11-12T15:13:11.540470+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "7ba00468b9c1a6ca",
@@ -6092,7 +6092,7 @@
       "published": "2026-11-13T17:07:20+00:00",
       "discovered_at": "2026-11-13T19:40:37.043637+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "ac39e9ef8e4bf4a4",
@@ -6103,7 +6103,7 @@
       "published": "Fri, 13 Nov 2026 16:39:33 +0000",
       "discovered_at": "2026-11-13T19:40:37.700880+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "aacbc0f38ffce24f",
@@ -6520,6 +6520,83 @@
       "source": "www.reddit.com",
       "published": "2026-11-13T11:28:37+00:00",
       "discovered_at": "2026-11-14T06:20:31.824601+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ba17f0fba24e9109",
+      "title": "TIL about Kalawao County, Hawaii. It is the smallest county in the US, and the second least populous, with 82 residents. Historically a leper quarantine colony, it will cease to exist once the last patient resident dies, and be absorbed into the larger Maui county.",
+      "summary": "&#32; submitted by &#32; /u/NevGuy [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvitjj/til_about_kalawao_county_hawaii_it_is_the/",
+      "source": "www.reddit.com",
+      "published": "2026-11-13T20:30:26+00:00",
+      "discovered_at": "2026-11-14T06:43:58.575687+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d22adf6026c27daf",
+      "title": "TIL about Peng Shuilin, who lost half his body in an truck accident, actually survived and is doing pretty well",
+      "summary": "&#32; submitted by &#32; /u/BlackSpinedPlinketto [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xviv5b/til_about_peng_shuilin_who_lost_half_his_body_in/",
+      "source": "www.reddit.com",
+      "published": "2026-11-13T20:32:09+00:00",
+      "discovered_at": "2026-11-14T06:43:58.575873+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "c0a9ec49e4a38cb0",
+      "title": "TIL that Chicago's nickname; The Windy City was not named after the heavy breezes that come from Lake Michigan but rather as a term to mock politicians who were \"hot air.\"",
+      "summary": "&#32; submitted by &#32; /u/JediKnightaa [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvszkq/til_that_chicagos_nickname_the_windy_city_was_not/",
+      "source": "www.reddit.com",
+      "published": "2026-11-14T04:16:51+00:00",
+      "discovered_at": "2026-11-14T06:43:58.575936+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d7b0c3cec074f746",
+      "title": "TIL the most expensive car ever sold was a 1955 Mercedes-Benz 300 SLR Uhlenhaut Coupe; it sold for an astounding $142,000,000 USD on May 5, 2022 in Stuttgart, Germany.",
+      "summary": "&#32; submitted by &#32; /u/hypermiler2205 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvm6oi/til_the_most_expensive_car_ever_sold_was_a_1955/",
+      "source": "www.reddit.com",
+      "published": "2026-11-13T22:45:56+00:00",
+      "discovered_at": "2026-11-14T06:43:58.576001+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5e844dffc0cd5d95",
+      "title": "TIL the album Chinese Democracy took fifteen years to make, cost $15 million, involved ten producers, and features nine guitarists.",
+      "summary": "&#32; submitted by &#32; /u/zigthis [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvse5i/til_the_album_chinese_democracy_took_fifteen/",
+      "source": "www.reddit.com",
+      "published": "2026-11-14T03:44:37+00:00",
+      "discovered_at": "2026-11-14T06:43:58.576065+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f34be2174cc2ba67",
+      "title": "TIL that only 699 NFL players all time (since 1920) were born outside the USA.",
+      "summary": "&#32; submitted by &#32; /u/josephsleftbigtoe [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvcypw/til_that_only_699_nfl_players_all_time_since_1920/",
+      "source": "www.reddit.com",
+      "published": "2026-11-13T16:50:14+00:00",
+      "discovered_at": "2026-11-14T06:43:58.576110+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "feac067c9f168ffa",
+      "title": "TIL the Tavistock Country Bus in England has a route that runs from April to October, on the fifth Saturday of the month. If there is no fifth Saturday, the bus does not run that month.",
+      "summary": "&#32; submitted by &#32; /u/TMWNN [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xv5nmg/til_the_tavistock_country_bus_in_england_has_a/",
+      "source": "www.reddit.com",
+      "published": "2026-11-13T11:40:38+00:00",
+      "discovered_at": "2026-11-14T06:43:58.576154+00:00",
       "score": 22.2,
       "status": "new"
     }

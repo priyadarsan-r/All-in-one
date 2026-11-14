@@ -1169,6 +1169,123 @@
       "created_at": "2026-11-13T06:57:09.979741+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25.",
+      "narration": "Here's something worth discovering. TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25.. &#32; submitted by &#32; /u/ApprehensiveStill412 [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25.",
+          "visual_query": "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/ApprehensiveStill412 [link] &#32; [comments]",
+          "visual_query": "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xvdfj5/til_that_the_first_functional_gasolineelectric/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-a6e6a2b4eb8fe214",
+      "topic_id": "a6e6a2b4eb8fe214",
+      "created_at": "2026-11-14T06:43:59.291829+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Outbursts from a Massive Star",
+      "narration": "Here's something worth discovering. Outbursts from a Massive Star. Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star,. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Outbursts from a Massive Star — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Outbursts from a Massive Star",
+          "visual_query": "Outbursts from a Massive Star",
+          "duration": 8
+        },
+        {
+          "text": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, ",
+          "visual_query": "Outbursts from a Massive Star visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Outbursts from a Massive Star"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-ac39e9ef8e4bf4a4",
+      "topic_id": "ac39e9ef8e4bf4a4",
+      "created_at": "2026-11-14T06:43:59.291851+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "narration": "Here's something worth discovering. NASA’s Hubble Offers Cosmic Sampler of Targets for Roman. A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+          "visual_query": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+          "duration": 8
+        },
+        {
+          "text": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic pheno",
+          "visual_query": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman"
+      ],
+      "sources": [
+        "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-0a0b44bf5ed03604",
+      "topic_id": "0a0b44bf5ed03604",
+      "created_at": "2026-11-14T06:43:59.291864+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
