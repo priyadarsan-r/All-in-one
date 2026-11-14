@@ -6599,6 +6599,226 @@
       "discovered_at": "2026-11-14T06:43:58.576154+00:00",
       "score": 22.2,
       "status": "new"
+    },
+    {
+      "id": "e1380c944385ce24",
+      "title": "Dynamic Edge",
+      "summary": "The Dynamic Island for Windows Discussion | Link",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "source": "www.producthunt.com",
+      "published": "2026-11-11T03:40:48-08:00",
+      "discovered_at": "2026-11-14T17:59:44.102830+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "614bc870db1cb1f0",
+      "title": "Gemini Robotics 2.5",
+      "summary": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "source": "www.producthunt.com",
+      "published": "2026-11-12T12:18:13-08:00",
+      "discovered_at": "2026-11-14T17:59:44.102907+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "98603bcf6c1ecb1d",
+      "title": "AnyoneHiring.today",
+      "summary": "A world map of jobs. “Anywhere” is now a plan. Discussion | Link",
+      "url": "https://www.producthunt.com/products/anyonehiring-today",
+      "source": "www.producthunt.com",
+      "published": "2026-11-11T01:26:21-08:00",
+      "discovered_at": "2026-11-14T17:59:44.104087+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "edf2637c56c67024",
+      "title": "HiringNow",
+      "summary": "AI job agent that finds & apply for jobs before anyone else. Discussion | Link",
+      "url": "https://www.producthunt.com/products/hiringnow",
+      "source": "www.producthunt.com",
+      "published": "2026-11-02T02:23:37-08:00",
+      "discovered_at": "2026-11-14T17:59:44.102983+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "dac980e263cf1e1d",
+      "title": "Horef Rings",
+      "summary": "Any metric on any Apple Watch face, plus a daily score Discussion | Link",
+      "url": "https://www.producthunt.com/products/horef-rings",
+      "source": "www.producthunt.com",
+      "published": "2026-11-07T12:20:27-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103051+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "33942005d390ef5d",
+      "title": "inread.app",
+      "summary": "your newsletters, outside your inbox Discussion | Link",
+      "url": "https://www.producthunt.com/products/inread-app",
+      "source": "www.producthunt.com",
+      "published": "2026-11-12T08:48:30-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103480+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "08358f75a86c685a",
+      "title": "Uber Parking",
+      "summary": "Find, compare and reserve parking inside the Uber app Discussion | Link",
+      "url": "https://www.producthunt.com/products/uber",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T09:07:16-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103739+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "c343ca8e966a1548",
+      "title": "TIL that as recently as 1996, the US Government had the \"Board of Tea Appeals\" and the \"Board of Tea Experts\", whose entire job was to judge the quality of imported tea. If they didn't like it according to their standards, they could \"order destruction\" of the tea.",
+      "summary": "&#32; submitted by &#32; /u/PillowManExtreme [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xvvk6u/til_that_as_recently_as_1996_the_us_government/",
+      "source": "www.reddit.com",
+      "published": "2026-11-14T06:40:34+00:00",
+      "discovered_at": "2026-11-14T17:59:44.754704+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "4519cb58e2ed1f81",
+      "title": "Drops",
+      "summary": "Discover new music through moments your friends love Discussion | Link",
+      "url": "https://www.producthunt.com/products/drops-4",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T14:54:34-08:00",
+      "discovered_at": "2026-11-14T17:59:44.102577+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a3e1f64956f0ac32",
+      "title": "Kokonut UI",
+      "summary": "Open-source UI components for your AI agent Discussion | Link",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "source": "www.producthunt.com",
+      "published": "2026-11-01T02:27:54-08:00",
+      "discovered_at": "2026-11-14T17:59:44.102743+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5dd4712ea7a89930",
+      "title": "Thunder",
+      "summary": "A blazing-fast, persistent, key-value AI workload database Discussion | Link",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "source": "www.producthunt.com",
+      "published": "2026-11-13T13:27:29-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103116+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7d8122cb1397f81a",
+      "title": "MAP & GO!",
+      "summary": "See your day on the map Discussion | Link",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "source": "www.producthunt.com",
+      "published": "2026-10-21T13:14:51-07:00",
+      "discovered_at": "2026-11-14T17:59:44.103178+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "bfbe0aae8c33e88c",
+      "title": "ScreenGo",
+      "summary": "screen recorder for Mac with auto zooms and virtual webcam Discussion | Link",
+      "url": "https://www.producthunt.com/products/screengo",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T07:57:03-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103238+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "144546c49014092b",
+      "title": "Restoration Scope",
+      "summary": "Field data and monitoring software for reforestation Discussion | Link",
+      "url": "https://www.producthunt.com/products/restoration-scope",
+      "source": "www.producthunt.com",
+      "published": "2026-11-11T06:39:07-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103300+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ca4b2b626ee1b29a",
+      "title": "Default Tamer",
+      "summary": "Open every link in the right browser on macOS Discussion | Link",
+      "url": "https://www.producthunt.com/products/default-tamer",
+      "source": "www.producthunt.com",
+      "published": "2026-11-12T09:27:40-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103360+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "fbaa610989741166",
+      "title": "VB Notes",
+      "summary": "Markdown notes in your own folder, searched by meaning Discussion | Link",
+      "url": "https://www.producthunt.com/products/vb-notes",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T05:41:38-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103421+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b41c8db82acd2c44",
+      "title": "CaptureFlow",
+      "summary": "Open-source screen recorder with instant share links Discussion | Link",
+      "url": "https://www.producthunt.com/products/captureflow",
+      "source": "www.producthunt.com",
+      "published": "2026-10-15T07:48:28-07:00",
+      "discovered_at": "2026-11-14T17:59:44.103554+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "9863bd73d300b524",
+      "title": "Valutorio",
+      "summary": "Your Markdown notes, native on Mac and iPhone Discussion | Link",
+      "url": "https://www.producthunt.com/products/valutorio",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T11:34:20-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103620+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "fe55c99589505a1a",
+      "title": "Businesses in ChatGPT",
+      "summary": "Help customers discover your business through ChatGPT Discussion | Link",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-13T00:53:51-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103680+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b18abdfca4ab3175",
+      "title": "Tacie",
+      "summary": "Meeting notes on your Mac, with no bot in the call Discussion | Link",
+      "url": "https://www.producthunt.com/products/tacie",
+      "source": "www.producthunt.com",
+      "published": "2026-11-13T07:03:50-08:00",
+      "discovered_at": "2026-11-14T17:59:44.103796+00:00",
+      "score": 22.2,
+      "status": "new"
     }
   ]
 }
