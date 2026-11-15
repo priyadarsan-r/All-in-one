@@ -5575,7 +5575,7 @@
       "published": "Thu, 12 Nov 2026 19:12:49 +0000",
       "discovered_at": "2026-11-12T23:38:58.744039+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "7d10245eef1dd503",
@@ -7016,7 +7016,7 @@
       "published": "2026-11-14T22:20:25+00:00",
       "discovered_at": "2026-11-15T06:29:59.391918+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "3d1dd6ed6d9317df",
@@ -7027,7 +7027,7 @@
       "published": "2026-11-15T02:21:59+00:00",
       "discovered_at": "2026-11-15T06:29:59.392643+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "426434438431fdf8",
