@@ -5784,7 +5784,7 @@
       "published": "2026-11-13T01:45:59+00:00",
       "discovered_at": "2026-11-13T06:43:13.923410+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "b0bb831a16a0b9fd",
@@ -7038,7 +7038,7 @@
       "published": "2026-11-14T23:15:32+00:00",
       "discovered_at": "2026-11-15T06:29:59.391733+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "b7ed43654f4b8eb9",
@@ -7346,7 +7346,7 @@
       "published": "2026-11-14T22:22:09-08:00",
       "discovered_at": "2026-11-16T06:27:14.891163+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "490120666a4bc721",
@@ -7554,6 +7554,28 @@
       "source": "www.reddit.com",
       "published": "2026-11-16T04:13:00+00:00",
       "discovered_at": "2026-11-16T06:27:15.501448+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f46ab35078741a52",
+      "title": "TIL former Syrian president Adib Shishakli, who brutally ruled the country between 1949 and 1954, fled to Brazil after being deposed. He lived a quiet and secret life as a rice farmer in a small town (Ceres, Goias). In 1964 he was tracked down and assassinated by a Druze militant.",
+      "summary": "&#32; submitted by &#32; /u/PikachuWithHerpes [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xxhohb/til_former_syrian_president_adib_shishakli_who/",
+      "source": "www.reddit.com",
+      "published": "2026-11-16T05:54:50+00:00",
+      "discovered_at": "2026-11-16T06:49:09.572175+00:00",
+      "score": 29.0,
+      "status": "new"
+    },
+    {
+      "id": "5bb17abe45381c1c",
+      "title": "TIL about the 1937 Musical \"I'd Rather Be Right\" which features a singing and dancing FDR",
+      "summary": "&#32; submitted by &#32; /u/BenevolusInsights [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xxezwn/til_about_the_1937_musical_id_rather_be_right/",
+      "source": "www.reddit.com",
+      "published": "2026-11-16T03:27:32+00:00",
+      "discovered_at": "2026-11-16T06:49:09.571971+00:00",
       "score": 22.2,
       "status": "new"
     }
