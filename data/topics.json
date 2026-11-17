@@ -7049,7 +7049,7 @@
       "published": "2026-11-15T01:32:03+00:00",
       "discovered_at": "2026-11-15T06:29:59.392455+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "d44e54a19970f4d0",
@@ -7588,7 +7588,7 @@
       "published": "2026-11-16T17:05:35+00:00",
       "discovered_at": "2026-11-16T22:00:10.661593+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "2ebeee0718b61301",
@@ -7808,7 +7808,7 @@
       "published": "2026-11-17T02:03:22+00:00",
       "discovered_at": "2026-11-17T07:53:33.656985+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "8ee9c85bad2143a6",
@@ -8016,6 +8016,226 @@
       "source": "www.producthunt.com",
       "published": "2026-11-12T15:52:35-08:00",
       "discovered_at": "2026-11-17T07:53:33.190375+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6705ee177ede1386",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "source": "science.nasa.gov",
+      "published": "Mon, 16 Nov 2026 22:05:23 +0000",
+      "discovered_at": "2026-11-17T08:08:37.046325+00:00",
+      "score": 29.0,
+      "status": "new"
+    },
+    {
+      "id": "2f032da1878fae65",
+      "title": "Retriever",
+      "summary": "Search your phone's photos, documents and videos privately Discussion | Link",
+      "url": "https://www.producthunt.com/products/retriever-4",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T21:04:07-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069832+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "b4881db637f852cb",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 17 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-17T08:08:37.045877+00:00",
+      "score": 28.2,
+      "status": "new"
+    },
+    {
+      "id": "2055c26ffcd46103",
+      "title": "BASE Studio",
+      "summary": "Turn product photos into 3D and AR, automatically Discussion | Link",
+      "url": "https://www.producthunt.com/products/base-studio",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T06:16:03-08:00",
+      "discovered_at": "2026-11-17T08:08:36.070061+00:00",
+      "score": 27.5,
+      "status": "new"
+    },
+    {
+      "id": "fc4e4e32549ab27e",
+      "title": "WispOS",
+      "summary": "Free AI game maker with an app store that wants your games Discussion | Link",
+      "url": "https://www.producthunt.com/products/wispos",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T08:56:27-08:00",
+      "discovered_at": "2026-11-17T08:08:36.070257+00:00",
+      "score": 26.8,
+      "status": "new"
+    },
+    {
+      "id": "9898d17c104e4571",
+      "title": "EkLine",
+      "summary": "Get your API discovered, recommended, and used by AI agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/ekline",
+      "source": "www.producthunt.com",
+      "published": "2026-11-04T13:32:44-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069594+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "75006dbe02ba570b",
+      "title": "VINC",
+      "summary": "Bring your filmmaking vision to life. Discussion | Link",
+      "url": "https://www.producthunt.com/products/vinc",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T06:15:05-08:00",
+      "discovered_at": "2026-11-17T08:08:36.068863+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "057278c7f5655913",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "source": "science.nasa.gov",
+      "published": "Tue, 17 Nov 2026 05:01:00 +0000",
+      "discovered_at": "2026-11-17T08:08:37.046115+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "3bf64b42c69d2816",
+      "title": "superlog",
+      "summary": "Finds the production bugs your monitoring never sees Discussion | Link",
+      "url": "https://www.producthunt.com/products/superlog",
+      "source": "www.producthunt.com",
+      "published": "2026-11-15T09:20:53-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069010+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "064269da27863dbf",
+      "title": "Continuo",
+      "summary": "One keyboard and mouse across Macs, no Apple Account Discussion | Link",
+      "url": "https://www.producthunt.com/products/continuo-4",
+      "source": "www.producthunt.com",
+      "published": "2026-11-05T19:15:01-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069166+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "a8c0dcb22573abb2",
+      "title": "AWS Emulator",
+      "summary": "Build and test AWS applications locally without deploying Discussion | Link",
+      "url": "https://www.producthunt.com/products/aws",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T11:56:50-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069295+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "6fbb6e7ea10d68d9",
+      "title": "AI Visibility by TruLata",
+      "summary": "Find out if ChatGPT names your business when buyers ask Discussion | Link",
+      "url": "https://www.producthunt.com/products/trulata",
+      "source": "www.producthunt.com",
+      "published": "2026-10-29T06:53:43-07:00",
+      "discovered_at": "2026-11-17T08:08:36.068560+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "49b738de582c4c36",
+      "title": "Agents API by Recall.ai",
+      "summary": "Send your agent to meetings Discussion | Link",
+      "url": "https://www.producthunt.com/products/recall-ai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T16:38:25-08:00",
+      "discovered_at": "2026-11-17T08:08:36.068773+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7c95b5f5ac883d81",
+      "title": "Link.bio",
+      "summary": "Paste your link, we build your page. Your AI runs it. Discussion | Link",
+      "url": "https://www.producthunt.com/products/link-bio",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T11:37:56-08:00",
+      "discovered_at": "2026-11-17T08:08:36.068940+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "0f36e73fdab70688",
+      "title": "ROOTKey Platform",
+      "summary": "See what changed in your data. Restore what you can prove. Discussion | Link",
+      "url": "https://www.producthunt.com/products/rootkey-platform",
+      "source": "www.producthunt.com",
+      "published": "2026-11-04T07:10:13-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069094+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "34365c4d7b021262",
+      "title": "Creatify Max",
+      "summary": "Your ad teammate, from strategy to creation to launch Discussion | Link",
+      "url": "https://www.producthunt.com/products/creatify",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T10:35:24-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069231+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "bdea0740707293c4",
+      "title": "Lampa Camera",
+      "summary": "iPhone camera with natural processing and an analog feel Discussion | Link",
+      "url": "https://www.producthunt.com/products/lampa-camera",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T10:33:44-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069356+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "03b46b3beec02b5e",
+      "title": "Pinecall",
+      "summary": "The open-source platform for voice AI agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/pinecall",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T02:54:15-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069417+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7bd99d77cb2738a9",
+      "title": "GlissTouch",
+      "summary": "Custom Trackpad Gestures for Mac Discussion | Link",
+      "url": "https://www.producthunt.com/products/glisstouch",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T01:43:23-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069477+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d9041968d14c95bc",
+      "title": "OnlineCompiler.io",
+      "summary": "Run and grade code in 46 languages, by API or embed Discussion | Link",
+      "url": "https://www.producthunt.com/products/onlinecompiler-io",
+      "source": "www.producthunt.com",
+      "published": "2026-11-09T21:37:19-08:00",
+      "discovered_at": "2026-11-17T08:08:36.069536+00:00",
       "score": 22.2,
       "status": "new"
     }
