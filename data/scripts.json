@@ -1637,6 +1637,123 @@
       "created_at": "2026-11-17T08:08:37.324499+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "narration": "Here's something worth discovering. NASA Space Apps Challenge Breaks Global Hackathon Records. On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Space Apps Challenge Breaks Global Hackathon Records — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+          "visual_query": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+          "duration": 8
+        },
+        {
+          "text": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taki",
+          "visual_query": "NASA Space Apps Challenge Breaks Global Hackathon Records visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Space Apps Challenge Breaks Global Hackathon Records"
+      ],
+      "sources": [
+        "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-65f72553bd3de0dc",
+      "topic_id": "65f72553bd3de0dc",
+      "created_at": "2026-11-18T07:54:58.678542+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: BPS Digital AVATAR Challenge",
+      "narration": "Here's something worth discovering. BPS Digital AVATAR Challenge. The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "BPS Digital AVATAR Challenge — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "BPS Digital AVATAR Challenge",
+          "visual_query": "BPS Digital AVATAR Challenge",
+          "duration": 8
+        },
+        {
+          "text": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living system",
+          "visual_query": "BPS Digital AVATAR Challenge visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "BPS Digital AVATAR Challenge"
+      ],
+      "sources": [
+        "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-ae11da60887b4c00",
+      "topic_id": "ae11da60887b4c00",
+      "created_at": "2026-11-18T07:54:58.678570+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Launches Nuclear Power Systems Student Contest",
+      "narration": "Here's something worth discovering. NASA Launches Nuclear Power Systems Student Contest. NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Launches Nuclear Power Systems Student Contest — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Launches Nuclear Power Systems Student Contest",
+          "visual_query": "NASA Launches Nuclear Power Systems Student Contest",
+          "duration": 8
+        },
+        {
+          "text": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathema",
+          "visual_query": "NASA Launches Nuclear Power Systems Student Contest visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Launches Nuclear Power Systems Student Contest"
+      ],
+      "sources": [
+        "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-4b9fa006e8891b70",
+      "topic_id": "4b9fa006e8891b70",
+      "created_at": "2026-11-18T07:54:58.678582+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }

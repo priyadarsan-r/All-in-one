@@ -8248,7 +8248,7 @@
       "published": "Tue, 17 Nov 2026 20:39:38 +0000",
       "discovered_at": "2026-11-17T20:54:09.141683+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "19d2c58bb39e9d2a",
@@ -8468,7 +8468,7 @@
       "published": "Tue, 17 Nov 2026 21:50:34 +0000",
       "discovered_at": "2026-11-18T07:26:53.035641+00:00",
       "score": 33.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "4b9fa006e8891b70",
@@ -8479,7 +8479,7 @@
       "published": "Tue, 17 Nov 2026 22:02:48 +0000",
       "discovered_at": "2026-11-18T07:26:53.035478+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "61dfe705ea0be880",
@@ -8533,6 +8533,17 @@
       "source": "science.nasa.gov",
       "published": "Tue, 17 Nov 2026 17:06:07 +0000",
       "discovered_at": "2026-11-18T07:26:53.036005+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "175d145ba126b6fb",
+      "title": "Ballet",
+      "summary": "Deterministic AI workflow automation for Ops teams Discussion | Link",
+      "url": "https://www.producthunt.com/products/ballet",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T11:55:26-08:00",
+      "discovered_at": "2026-11-18T07:54:57.869240+00:00",
       "score": 22.2,
       "status": "new"
     }
