@@ -8766,6 +8766,171 @@
       "discovered_at": "2026-11-18T20:29:44.915565+00:00",
       "score": 22.2,
       "status": "new"
+    },
+    {
+      "id": "554b381d80c148a6",
+      "title": "LinkBit",
+      "summary": "Free URL shortener your AI agent can use (MCP + API) Discussion | Link",
+      "url": "https://www.producthunt.com/products/linkbit",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T23:57:08-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013553+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "8265e69f95555cf5",
+      "title": "dusk bot",
+      "summary": "free open source Grok bot alternative Discussion | Link",
+      "url": "https://www.producthunt.com/products/dusk-bot",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T06:13:59-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014155+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "f3cfd750b1eeb803",
+      "title": "Diagramly 2.0",
+      "summary": "Type a diagram. Get it reviewed. Present it as the deck. Discussion | Link",
+      "url": "https://www.producthunt.com/products/diagramly-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T15:51:50-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013249+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "4b47b6fbb57eb665",
+      "title": "AssemblyAI-STT-3.7",
+      "summary": "Speech-to-Text for live calls, voice agents, and recordings Discussion | Link",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T22:50:37-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013454+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "65e48738b435bc16",
+      "title": "Tencent Hy4 flash",
+      "summary": "Fast, low-cost model from $0.07/M input Discussion | Link",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "source": "www.producthunt.com",
+      "published": "2026-11-15T22:53:29-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013624+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "cffcffa0c654fd5e",
+      "title": "Replay QA Self-healing Mode",
+      "summary": "Turn user frustration into verified fixes Discussion | Link",
+      "url": "https://www.producthunt.com/products/replayio",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T13:45:46-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013687+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5eea9fc9e87a14df",
+      "title": "Microsoft IQ",
+      "summary": "Give AI agents a shared understanding of your business Discussion | Link",
+      "url": "https://www.producthunt.com/products/microsoft-365",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T11:34:13-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013748+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6a9c6bb43f6de45d",
+      "title": "Bluedot Phone Calls",
+      "summary": "AI note taker for phone calls Discussion | Link",
+      "url": "https://www.producthunt.com/products/bluedot-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-14T06:21:32-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013806+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "27cfbaca4c44f379",
+      "title": "OX212",
+      "summary": "Don't predict the market, predict the trader Discussion | Link",
+      "url": "https://www.producthunt.com/products/ox212",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T05:57:19-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013882+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8ac717746028f120",
+      "title": "Polylane for CI",
+      "summary": "Fix broken builds before they block your team Discussion | Link",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "www.producthunt.com",
+      "published": "2026-11-16T11:36:42-08:00",
+      "discovered_at": "2026-11-19T07:24:16.013952+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "f5bda386a353bded",
+      "title": "ICONS",
+      "summary": "Where brands book creators, or license their AI likeness Discussion | Link",
+      "url": "https://www.producthunt.com/products/icons-2",
+      "source": "www.producthunt.com",
+      "published": "2026-11-14T09:43:08-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014011+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "ef622978e239ba47",
+      "title": "SoreQen Code",
+      "summary": "The coding agent that checks its own work Discussion | Link",
+      "url": "https://www.producthunt.com/products/soreqen-code",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T19:14:00-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014097+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "85596d1b8212124c",
+      "title": "KaDeep AI",
+      "summary": "Agentic QA, localization & accessibility: know when to ship Discussion | Link",
+      "url": "https://www.producthunt.com/products/kadeep-ai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T00:00:01-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014216+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "99a719fb672d6c51",
+      "title": "Dippr",
+      "summary": "A data platform served to your agents, with one prompt Discussion | Link",
+      "url": "https://www.producthunt.com/products/dippr",
+      "source": "www.producthunt.com",
+      "published": "2026-11-14T23:59:41-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014297+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "361b4f6420ffaefa",
+      "title": "Introzy",
+      "summary": "Track referrals from intro to commission Discussion | Link",
+      "url": "https://www.producthunt.com/products/introzy",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T11:39:36-08:00",
+      "discovered_at": "2026-11-19T07:24:16.014364+00:00",
+      "score": 22.2,
+      "status": "new"
     }
   ]
 }
