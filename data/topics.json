@@ -7566,7 +7566,7 @@
       "published": "2026-11-16T05:54:50+00:00",
       "discovered_at": "2026-11-16T06:49:09.572175+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "5bb17abe45381c1c",
@@ -7599,7 +7599,7 @@
       "published": "Mon, 16 Nov 2026 18:34:47 +0000",
       "discovered_at": "2026-11-16T22:00:11.354861+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "e387c289a981ae97",
@@ -8028,7 +8028,7 @@
       "published": "Mon, 16 Nov 2026 22:05:23 +0000",
       "discovered_at": "2026-11-17T08:08:37.046325+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "2f032da1878fae65",
