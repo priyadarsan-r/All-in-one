@@ -8941,7 +8941,7 @@
       "published": "Thu, 19 Nov 2026 19:34:20 +0000",
       "discovered_at": "2026-11-19T20:35:47.044410+00:00",
       "score": 37.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "122e97190c958efa",
@@ -8952,7 +8952,7 @@
       "published": "2026-11-16T21:24:17-08:00",
       "discovered_at": "2026-11-19T20:35:46.818608+00:00",
       "score": 32.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "f33996d76cad59f4",
@@ -8963,7 +8963,7 @@
       "published": "Thu, 19 Nov 2026 14:31:15 +0000",
       "discovered_at": "2026-11-19T20:35:47.044910+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "a1402e943c214bc8",

@@ -1871,6 +1871,123 @@
       "created_at": "2026-11-19T07:39:30.365435+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Challenge: Public Input on Life and the World in 2075",
+      "narration": "Here's something worth discovering. Challenge: Public Input on Life and the World in 2075. NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Challenge: Public Input on Life and the World in 2075 — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Challenge: Public Input on Life and the World in 2075",
+          "visual_query": "Challenge: Public Input on Life and the World in 2075",
+          "duration": 8
+        },
+        {
+          "text": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world ma",
+          "visual_query": "Challenge: Public Input on Life and the World in 2075 visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Challenge: Public Input on Life and the World in 2075"
+      ],
+      "sources": [
+        "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-6b2647dd679bd520",
+      "topic_id": "6b2647dd679bd520",
+      "created_at": "2026-11-20T07:30:13.389001+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: CodeDesign v3",
+      "narration": "Here's something worth discovering. CodeDesign v3. Run your website and business apps from ChatGPT or Claude Discussion | Link. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "CodeDesign v3 — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "CodeDesign v3",
+          "visual_query": "CodeDesign v3",
+          "duration": 8
+        },
+        {
+          "text": "Run your website and business apps from ChatGPT or Claude Discussion | Link",
+          "visual_query": "CodeDesign v3 visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "CodeDesign v3"
+      ],
+      "sources": [
+        "https://www.producthunt.com/products/codedesign"
+      ],
+      "needs_human_review": true,
+      "id": "cd-122e97190c958efa",
+      "topic_id": "122e97190c958efa",
+      "created_at": "2026-11-20T07:30:13.389031+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "narration": "Here's something worth discovering. NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth. NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+          "visual_query": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+          "duration": 8
+        },
+        {
+          "text": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 ",
+          "visual_query": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-f33996d76cad59f4",
+      "topic_id": "f33996d76cad59f4",
+      "created_at": "2026-11-20T07:30:13.389057+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
