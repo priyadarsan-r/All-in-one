@@ -8259,7 +8259,7 @@
       "published": "Tue, 17 Nov 2026 17:00:29 +0000",
       "discovered_at": "2026-11-17T20:54:09.142477+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "e9e6af820dd137c4",
@@ -8556,7 +8556,7 @@
       "published": "Wed, 18 Nov 2026 18:58:27 +0000",
       "discovered_at": "2026-11-18T20:29:45.357105+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "0b0cd195335f9b77",
@@ -8974,7 +8974,7 @@
       "published": "Wed, 18 Nov 2026 22:19:17 +0000",
       "discovered_at": "2026-11-19T20:35:47.045164+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "d9bd12737654363c",
@@ -9765,6 +9765,94 @@
       "source": "www.producthunt.com",
       "published": "2026-11-18T22:13:43-08:00",
       "discovered_at": "2026-11-21T07:05:06.376508+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2aee1962a1bbe11c",
+      "title": "Nova by Vybe",
+      "summary": "Nova audits your website free, then fixes what it finds Discussion | Link",
+      "url": "https://www.producthunt.com/products/vybe-4",
+      "source": "www.producthunt.com",
+      "published": "2026-11-19T11:54:06-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043387+00:00",
+      "score": 26.8,
+      "status": "new"
+    },
+    {
+      "id": "c9d4becda42c6479",
+      "title": "HelpCard",
+      "summary": "a free emergency QR card Discussion | Link",
+      "url": "https://www.producthunt.com/products/helpcard",
+      "source": "www.producthunt.com",
+      "published": "2026-11-19T09:26:05-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043137+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "303584641ec43a6d",
+      "title": "Memanto Cloud",
+      "summary": "A companion memory for agents to improve as you work Discussion | Link",
+      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
+      "source": "www.producthunt.com",
+      "published": "2026-11-10T10:16:20-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043316+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b685297bbe015b83",
+      "title": "Stormi",
+      "summary": "An AI team on your iPhone that does real work Discussion | Link",
+      "url": "https://www.producthunt.com/products/stormi",
+      "source": "www.producthunt.com",
+      "published": "2026-11-19T04:24:03-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043442+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "adbf794ded95a8a3",
+      "title": "Storiara",
+      "summary": "AI producers that find real savings in your film budget Discussion | Link",
+      "url": "https://www.producthunt.com/products/storiara",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T12:02:24-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043493+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "149e588027f56615",
+      "title": "Dozy",
+      "summary": "Turns your sleep data into one thing to do today Discussion | Link",
+      "url": "https://www.producthunt.com/products/dozy",
+      "source": "www.producthunt.com",
+      "published": "2026-11-19T13:18:14-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043541+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "280971663cef5b8b",
+      "title": "Kuc-kuc",
+      "summary": "A knock on the door when dangerous weather comes Discussion | Link",
+      "url": "https://www.producthunt.com/products/kuc-kuc",
+      "source": "www.producthunt.com",
+      "published": "2026-11-13T12:20:29-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043587+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a24d782ef5ecf6fd",
+      "title": "tripps",
+      "summary": "Plan a group trip with one link, no account needed Discussion | Link",
+      "url": "https://www.producthunt.com/products/tripps",
+      "source": "www.producthunt.com",
+      "published": "2026-11-17T11:25:40-08:00",
+      "discovered_at": "2026-11-21T07:25:16.043695+00:00",
       "score": 22.2,
       "status": "new"
     }

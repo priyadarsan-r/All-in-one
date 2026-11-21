@@ -1988,6 +1988,123 @@
       "created_at": "2026-11-20T07:30:13.389057+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "narration": "Here's something worth discovering. NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch. NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The age. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+          "visual_query": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+          "duration": 8
+        },
+        {
+          "text": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch de",
+          "visual_query": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-a1402e943c214bc8",
+      "topic_id": "a1402e943c214bc8",
+      "created_at": "2026-11-21T07:25:17.013608+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "narration": "Here's something worth discovering. NASA Invites Media, Public to View Roman Telescope’s First Images. NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Invites Media, Public to View Roman Telescope’s First Images — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+          "visual_query": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+          "duration": 8
+        },
+        {
+          "text": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geo",
+          "visual_query": "NASA Invites Media, Public to View Roman Telescope’s First Images visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Invites Media, Public to View Roman Telescope’s First Images"
+      ],
+      "sources": [
+        "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-19d2c58bb39e9d2a",
+      "topic_id": "19d2c58bb39e9d2a",
+      "created_at": "2026-11-21T07:25:17.013639+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "narration": "Here's something worth discovering. MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in. Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.&#160; However, when a short holiday break turns into a full holiday season, we know that this is a . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+          "visual_query": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+          "duration": 8
+        },
+        {
+          "text": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.",
+          "visual_query": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in"
+      ],
+      "sources": [
+        "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-308c204f8b713026",
+      "topic_id": "308c204f8b713026",
+      "created_at": "2026-11-21T07:25:17.013655+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
