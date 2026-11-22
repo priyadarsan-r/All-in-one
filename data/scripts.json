@@ -2105,6 +2105,123 @@
       "created_at": "2026-11-21T07:25:17.013655+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Curiosity Mars Rover Collects Samples",
+      "narration": "Here's something worth discovering. NASA’s Curiosity Mars Rover Collects Samples. This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of i. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Curiosity Mars Rover Collects Samples — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Curiosity Mars Rover Collects Samples",
+          "visual_query": "NASA’s Curiosity Mars Rover Collects Samples",
+          "duration": 8
+        },
+        {
+          "text": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represe",
+          "visual_query": "NASA’s Curiosity Mars Rover Collects Samples visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Curiosity Mars Rover Collects Samples"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-256a648a72a9ea14",
+      "topic_id": "256a648a72a9ea14",
+      "created_at": "2026-11-22T07:06:20.316433+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "narration": "Here's something worth discovering. NASA Space Grant Students Fuel Agency’s Inspiration Tour. NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leaders. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Space Grant Students Fuel Agency’s Inspiration Tour — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+          "visual_query": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+          "duration": 8
+        },
+        {
+          "text": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public,",
+          "visual_query": "NASA Space Grant Students Fuel Agency’s Inspiration Tour visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Space Grant Students Fuel Agency’s Inspiration Tour"
+      ],
+      "sources": [
+        "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-7628b02ce9bd6b72",
+      "topic_id": "7628b02ce9bd6b72",
+      "created_at": "2026-11-22T07:06:20.316456+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal.",
+      "narration": "Here's something worth discovering. TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal.. &#32; submitted by &#32; /u/RedditIsAGranfaloon [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal.",
+          "visual_query": "TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/RedditIsAGranfaloon [link] &#32; [comments]",
+          "visual_query": "TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL sea otters eat 25 percent of their body weight in food every day, and they have have the thickest fur of any animal."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xofadd/til_sea_otters_eat_25_percent_of_their_body/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-49ec32e50312fbb7",
+      "topic_id": "49ec32e50312fbb7",
+      "created_at": "2026-11-22T07:06:20.316467+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
