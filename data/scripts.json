@@ -2222,6 +2222,123 @@
       "created_at": "2026-11-22T07:06:20.316467+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Midwestern City Lights",
+      "narration": "Here's something worth discovering. Midwestern City Lights. City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detro. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Midwestern City Lights — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Midwestern City Lights",
+          "visual_query": "Midwestern City Lights",
+          "duration": 8
+        },
+        {
+          "text": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before su",
+          "visual_query": "Midwestern City Lights visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Midwestern City Lights"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/midwestern-city-lights/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-78cb0b9f607dba14",
+      "topic_id": "78cb0b9f607dba14",
+      "created_at": "2026-11-23T07:53:46.850441+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: APOD: 2026 November 6 – A Farewell to Swift",
+      "narration": "Here's something worth discovering. APOD: 2026 November 6 – A Farewell to Swift. APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogr. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "APOD: 2026 November 6 – A Farewell to Swift — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "APOD: 2026 November 6 – A Farewell to Swift",
+          "visual_query": "APOD: 2026 November 6 – A Farewell to Swift",
+          "duration": 8
+        },
+        {
+          "text": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About ",
+          "visual_query": "APOD: 2026 November 6 – A Farewell to Swift visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "APOD: 2026 November 6 – A Farewell to Swift"
+      ],
+      "sources": [
+        "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-e909d73980c61370",
+      "topic_id": "e909d73980c61370",
+      "created_at": "2026-11-23T07:53:46.850470+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC.",
+      "narration": "Here's something worth discovering. TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC.. &#32; submitted by &#32; /u/Crocs_of_Steel [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC.",
+          "visual_query": "TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/Crocs_of_Steel [link] &#32; [comments]",
+          "visual_query": "TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL that The People's Republic of China leases Giant Pandas to zoos around the world for around $1Million per panda. Any cubs born from leased Pandas remain the property of the PRC."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xprrut/til_that_the_peoples_republic_of_china_leases/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-2158f96892db530c",
+      "topic_id": "2158f96892db530c",
+      "created_at": "2026-11-23T07:53:46.850482+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
