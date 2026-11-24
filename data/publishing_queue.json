@@ -299,6 +299,21 @@
       "script_id": "cd-2158f96892db530c",
       "video": "output/cd-2158f96892db530c-SILENT-REVIEW.mp4",
       "status": "review_required"
+    },
+    {
+      "script_id": "cd-c59b88d5ce8e9a01",
+      "video": "output/cd-c59b88d5ce8e9a01-SILENT-REVIEW.mp4",
+      "status": "review_required"
+    },
+    {
+      "script_id": "cd-bcfd48a04727ea1c",
+      "video": "output/cd-bcfd48a04727ea1c-SILENT-REVIEW.mp4",
+      "status": "review_required"
+    },
+    {
+      "script_id": "cd-095f88497f31ebea",
+      "video": "output/cd-095f88497f31ebea-SILENT-REVIEW.mp4",
+      "status": "review_required"
     }
   ]
 }

@@ -2339,6 +2339,123 @@
       "created_at": "2026-11-23T07:53:46.850482+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "narration": "Here's something worth discovering. NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space. NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The E. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+          "visual_query": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+          "duration": 8
+        },
+        {
+          "text": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cut",
+          "visual_query": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space"
+      ],
+      "sources": [
+        "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-c59b88d5ce8e9a01",
+      "topic_id": "c59b88d5ce8e9a01",
+      "created_at": "2026-11-24T10:07:05.020158+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+      "narration": "Here's something worth discovering. NASA Seeks Partners to Design First Nuclear Reactor for the Moon. NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.&#160; Lunar R. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+          "visual_query": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+          "duration": 8
+        },
+        {
+          "text": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the M",
+          "visual_query": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Seeks Partners to Design First Nuclear Reactor for the Moon"
+      ],
+      "sources": [
+        "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-bcfd48a04727ea1c",
+      "topic_id": "bcfd48a04727ea1c",
+      "created_at": "2026-11-24T10:07:05.020188+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Studying Cancer Cells in Microgravity",
+      "narration": "Here's something worth discovering. Studying Cancer Cells in Microgravity. This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand . The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Studying Cancer Cells in Microgravity — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Studying Cancer Cells in Microgravity",
+          "visual_query": "Studying Cancer Cells in Microgravity",
+          "duration": 8
+        },
+        {
+          "text": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigatio",
+          "visual_query": "Studying Cancer Cells in Microgravity visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Studying Cancer Cells in Microgravity"
+      ],
+      "sources": [
+        "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-095f88497f31ebea",
+      "topic_id": "095f88497f31ebea",
+      "created_at": "2026-11-24T10:07:05.020201+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }

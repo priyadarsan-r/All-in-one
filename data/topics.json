@@ -10404,7 +10404,7 @@
       "published": "Mon, 23 Nov 2026 16:08:23 +0000",
       "discovered_at": "2026-11-23T23:52:47.369287+00:00",
       "score": 32.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "bcfd48a04727ea1c",
@@ -10415,7 +10415,7 @@
       "published": "Mon, 23 Nov 2026 17:23:50 +0000",
       "discovered_at": "2026-11-23T23:52:47.369151+00:00",
       "score": 29.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "095f88497f31ebea",
@@ -10426,7 +10426,7 @@
       "published": "Mon, 23 Nov 2026 17:28:37 +0000",
       "discovered_at": "2026-11-23T23:52:47.369013+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "dc14d5399c9c8c8a",
@@ -10832,6 +10832,105 @@
       "source": "www.producthunt.com",
       "published": "2026-11-23T08:47:25-08:00",
       "discovered_at": "2026-11-24T09:52:44.205420+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "57f07a60aadde4c6",
+      "title": "Mystonie",
+      "summary": "Log movies, shows, books & games — turn finishes into art Discussion | Link",
+      "url": "https://www.producthunt.com/products/mystonie",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T18:57:54-08:00",
+      "discovered_at": "2026-11-24T10:07:04.204923+00:00",
+      "score": 26.0,
+      "status": "new"
+    },
+    {
+      "id": "26a2d7d8f80725f8",
+      "title": "Rotara",
+      "summary": "Mac workspaces, one flick away Discussion | Link",
+      "url": "https://www.producthunt.com/products/rotara",
+      "source": "www.producthunt.com",
+      "published": "2026-11-22T08:59:41-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205358+00:00",
+      "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "4fe0cc689b86b691",
+      "title": "K-Stra",
+      "summary": "Geomarketing for Australia, with an AI that does the maths Discussion | Link",
+      "url": "https://www.producthunt.com/products/k-stra",
+      "source": "www.producthunt.com",
+      "published": "2026-11-20T06:25:07-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205080+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "e54d88af1a90ddb2",
+      "title": "Umami Manager",
+      "summary": "Umami reports, widgets & links – native on iPhone & iPad Discussion | Link",
+      "url": "https://www.producthunt.com/products/umami-manager",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T08:55:11-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205168+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "adb6dbef12e5df34",
+      "title": "Tendor",
+      "summary": "Write it or ask it, from anywhere on Windows Discussion | Link",
+      "url": "https://www.producthunt.com/products/tendor",
+      "source": "www.producthunt.com",
+      "published": "2026-11-19T23:02:20-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205254+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "de5fe9e1ecc5d5ae",
+      "title": "tday.com",
+      "summary": "Ask your coding agent for a narrated demo of any feature Discussion | Link",
+      "url": "https://www.producthunt.com/products/tday",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T13:22:27-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205311+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2636b6757f84fc21",
+      "title": "frwrd.to",
+      "summary": "Your link in bio, sorted by your AI in one message Discussion | Link",
+      "url": "https://www.producthunt.com/products/frwrd-to",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T04:34:54-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205409+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "3bd693af269f5825",
+      "title": "Hourly Journal",
+      "summary": "Journal your hours, understand your days Discussion | Link",
+      "url": "https://www.producthunt.com/products/hourly-journal",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T20:54:41-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205460+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "00e7bc4efcd1076f",
+      "title": "Astor",
+      "summary": "AI Thesis Investing Discussion | Link",
+      "url": "https://www.producthunt.com/products/astor",
+      "source": "www.producthunt.com",
+      "published": "2026-11-18T18:44:24-08:00",
+      "discovered_at": "2026-11-24T10:07:04.205503+00:00",
       "score": 22.2,
       "status": "new"
     }
