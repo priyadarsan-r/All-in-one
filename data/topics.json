@@ -1,94 +1,6 @@
 {
   "topics": [
     {
-      "id": "fe7771fa2dd875e5",
-      "title": "TIL about Ray Combs. The host of Family Feud for six seasons, who killed himself after a series of tragedies including a car accident which caused chronic pain and partial paralysis. His comedy club businesses simultaneously failed and led to home foreclosure. This led to his wife leaving him.",
-      "summary": "&#32; submitted by &#32; /u/Then_Character_4050 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xmz6pn/til_about_ray_combs_the_host_of_family_feud_for/",
-      "source": "www.reddit.com",
-      "published": "2026-11-03T17:27:06+00:00",
-      "discovered_at": "2026-11-04T13:18:45.931615+00:00",
-      "score": 25.2,
-      "status": "new"
-    },
-    {
-      "id": "70d02ee4c81be2ef",
-      "title": "TIL that Harry Glicken, who took the final photo of David A. Johnston before Johnston died in the Mt St. Helens eruption, would 11 years later become the only other American volcanologist to die in a volcanic eruption.",
-      "summary": "&#32; submitted by &#32; /u/DrakeSavory [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xmma8o/til_that_harry_glicken_who_took_the_final_photo/",
-      "source": "www.reddit.com",
-      "published": "2026-11-03T07:06:57+00:00",
-      "discovered_at": "2026-11-04T13:18:45.932240+00:00",
-      "score": 25.2,
-      "status": "new"
-    },
-    {
-      "id": "97833bc587aef832",
-      "title": "Mellow Kids",
-      "summary": "Personalized sleep and development app for parents Discussion | Link",
-      "url": "https://www.producthunt.com/products/mellow-kids",
-      "source": "www.producthunt.com",
-      "published": "2026-10-26T02:08:42-07:00",
-      "discovered_at": "2026-11-04T13:18:45.260163+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
-      "id": "7d23fd826857e8ea",
-      "title": "kosa8",
-      "summary": "Air-gapped microVM sandboxes for enterprise AI agents Discussion | Link",
-      "url": "https://www.producthunt.com/products/kosa8",
-      "source": "www.producthunt.com",
-      "published": "2026-11-01T20:15:55-08:00",
-      "discovered_at": "2026-11-04T13:18:45.260576+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
-      "id": "61c7dce8d4b4e554",
-      "title": "Fedora Linux 45",
-      "summary": "GNOME 51: Wayland fixes, oo7 keys, and modern toolchains. Discussion | Link",
-      "url": "https://www.producthunt.com/products/fedora-linux-45",
-      "source": "www.producthunt.com",
-      "published": "2026-11-03T17:04:14-08:00",
-      "discovered_at": "2026-11-04T13:18:45.260739+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
-      "id": "6fedfbd4ee65209e",
-      "title": "Floot Payments",
-      "summary": "Take payments in apps you build in ChatGPT and Claude Discussion | Link",
-      "url": "https://www.producthunt.com/products/floot",
-      "source": "www.producthunt.com",
-      "published": "2026-11-02T13:05:52-08:00",
-      "discovered_at": "2026-11-04T13:18:45.260851+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
-      "id": "6b19e3f04fe328eb",
-      "title": "TIL there's a decorative dress trim named after cockchafer antennae",
-      "summary": "&#32; submitted by &#32; /u/YappinZappin [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xnh8q1/til_theres_a_decorative_dress_trim_named_after/",
-      "source": "www.reddit.com",
-      "published": "2026-11-04T06:38:08+00:00",
-      "discovered_at": "2026-11-04T13:18:45.931943+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
-      "id": "6d407798be17f80c",
-      "title": "The Pacific’s Busy Storm Season",
-      "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "source": "science.nasa.gov",
-      "published": "Tue, 03 Nov 2026 05:01:00 +0000",
-      "discovered_at": "2026-11-04T13:18:46.573183+00:00",
-      "score": 24.5,
-      "status": "new"
-    },
-    {
       "id": "8955d226a0cbc745",
       "title": "Hindsight Models and Inference API",
       "summary": "Small, fast models for reranking, embeddings and decisions Discussion | Link",
@@ -10195,7 +10107,7 @@
       "published": "Mon, 23 Nov 2026 15:00:00 +0000",
       "discovered_at": "2026-11-23T23:52:47.369421+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "8545dc6e62ec430a",
@@ -10701,7 +10613,7 @@
       "published": "Tue, 24 Nov 2026 15:44:38 +0000",
       "discovered_at": "2026-11-24T22:25:22.714662+00:00",
       "score": 32.8,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "25b7900075d48ab2",
@@ -10712,7 +10624,7 @@
       "published": "Tue, 24 Nov 2026 21:04:32 +0000",
       "discovered_at": "2026-11-24T22:25:22.713877+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "847b476a84a8bad3",
@@ -10997,6 +10909,94 @@
       "source": "www.producthunt.com",
       "published": "2026-11-24T07:39:09-08:00",
       "discovered_at": "2026-11-25T08:30:55.687803+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b6e0dd5a2637bc94",
+      "title": "GibHub",
+      "summary": "Retrieve and compare Git versions Discussion | Link",
+      "url": "https://www.producthunt.com/products/gibhub-git-file-history",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T20:38:27-08:00",
+      "discovered_at": "2026-11-25T08:51:23.951482+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "41aa2a68cd08cead",
+      "title": "Koed",
+      "summary": "Supercharged Agents! Discussion | Link",
+      "url": "https://www.producthunt.com/products/koed",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T01:30:45-08:00",
+      "discovered_at": "2026-11-25T08:51:23.951739+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "8550e4d4b48dbc14",
+      "title": "Sen Việt (VieLotus-IM)",
+      "summary": "Smart Bilingual input method for macOS, Windows, and Linux. Discussion | Link",
+      "url": "https://www.producthunt.com/products/sen-vi-t-vielotus-im",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T17:44:41-08:00",
+      "discovered_at": "2026-11-25T08:51:23.951951+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5d9fbff370494290",
+      "title": "Continual-ARC",
+      "summary": "OpenClaw doesn't learn from experience. Does your agent? Discussion | Link",
+      "url": "https://www.producthunt.com/products/unify-5",
+      "source": "www.producthunt.com",
+      "published": "2026-11-10T15:48:03-08:00",
+      "discovered_at": "2026-11-25T08:51:23.952096+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "7adfd87020383f42",
+      "title": "Hai",
+      "summary": "Your AI assistant that actually makes the phone call Discussion | Link",
+      "url": "https://www.producthunt.com/products/hai-4",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T03:19:56-08:00",
+      "discovered_at": "2026-11-25T08:51:23.952209+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "a99e13ab05f78a5c",
+      "title": "Hold'em",
+      "summary": "Swipe real Black Friday cart deals across Shopify Discussion | Link",
+      "url": "https://www.producthunt.com/products/hold-em",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T14:25:40-08:00",
+      "discovered_at": "2026-11-25T08:51:23.952339+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "3d2138eed712e110",
+      "title": "TruAstra",
+      "summary": "Small practices based on your birthday + the current weather Discussion | Link",
+      "url": "https://www.producthunt.com/products/truastra",
+      "source": "www.producthunt.com",
+      "published": "2026-11-23T11:41:33-08:00",
+      "discovered_at": "2026-11-25T08:51:23.952446+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "042b848485fbb29a",
+      "title": "Canva MCP",
+      "summary": "Turn any AI agent into a creative powerhouse Discussion | Link",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T07:05:09-08:00",
+      "discovered_at": "2026-11-25T08:51:23.952584+00:00",
       "score": 22.2,
       "status": "new"
     }

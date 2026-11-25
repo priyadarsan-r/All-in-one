@@ -2456,6 +2456,123 @@
       "created_at": "2026-11-24T10:07:05.020201+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "narration": "Here's something worth discovering. NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes. Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Satu. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+          "visual_query": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+          "duration": 8
+        },
+        {
+          "text": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in",
+          "visual_query": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes"
+      ],
+      "sources": [
+        "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-c75dd236a6408ddf",
+      "topic_id": "c75dd236a6408ddf",
+      "created_at": "2026-11-25T08:51:25.054302+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "narration": "Here's something worth discovering. Teams Lock in Mission Architecture for NASA’s SR-1 Freedom. NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first t. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+          "visual_query": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+          "duration": 8
+        },
+        {
+          "text": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is ",
+          "visual_query": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom"
+      ],
+      "sources": [
+        "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-25b7900075d48ab2",
+      "topic_id": "25b7900075d48ab2",
+      "created_at": "2026-11-25T08:51:25.054337+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "narration": "Here's something worth discovering. NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution. NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massiv. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+          "visual_query": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+          "duration": 8
+        },
+        {
+          "text": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A)",
+          "visual_query": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution"
+      ],
+      "sources": [
+        "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-dc14d5399c9c8c8a",
+      "topic_id": "dc14d5399c9c8c8a",
+      "created_at": "2026-11-25T08:51:25.054361+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
