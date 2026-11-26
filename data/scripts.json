@@ -2573,6 +2573,123 @@
       "created_at": "2026-11-25T08:51:25.054361+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Seeking Refuge on Resolution Island",
+      "narration": "Here's something worth discovering. Seeking Refuge on Resolution Island. New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Seeking Refuge on Resolution Island — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Seeking Refuge on Resolution Island",
+          "visual_query": "Seeking Refuge on Resolution Island",
+          "duration": 8
+        },
+        {
+          "text": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown ",
+          "visual_query": "Seeking Refuge on Resolution Island visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Seeking Refuge on Resolution Island"
+      ],
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-4c81dd674c8d4d5c",
+      "topic_id": "4c81dd674c8d4d5c",
+      "created_at": "2026-11-26T08:37:13.800810+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "narration": "Here's something worth discovering. Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard. Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the ag. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+          "visual_query": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+          "duration": 8
+        },
+        {
+          "text": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at N",
+          "visual_query": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard"
+      ],
+      "sources": [
+        "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-0b9e1951627af895",
+      "topic_id": "0b9e1951627af895",
+      "created_at": "2026-11-26T08:37:13.800839+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: Eruption Extends Iwo Jima’s Beach",
+      "narration": "Here's something worth discovering. Eruption Extends Iwo Jima’s Beach. A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "Eruption Extends Iwo Jima’s Beach — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "Eruption Extends Iwo Jima’s Beach",
+          "visual_query": "Eruption Extends Iwo Jima’s Beach",
+          "duration": 8
+        },
+        {
+          "text": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long",
+          "visual_query": "Eruption Extends Iwo Jima’s Beach visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "Eruption Extends Iwo Jima’s Beach"
+      ],
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-21ed400f0c281517",
+      "topic_id": "21ed400f0c281517",
+      "created_at": "2026-11-26T08:37:13.800855+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }

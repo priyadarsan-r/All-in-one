@@ -1,105 +1,6 @@
 {
   "topics": [
     {
-      "id": "5ed67da52a983343",
-      "title": "TIL There's a golden statue of Buddha in Thailand weighing 5.5 metric tonnes. For nearly 200 years, it was covered with stucco and coloured glass to conceal its value. It remained that way until 1955 during relocation when the plaster was accidentally chipped, revealing the gold underneath.",
-      "summary": "&#32; submitted by &#32; /u/AetheriaNox [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xn65ja/til_theres_a_golden_statue_of_buddha_in_thailand/",
-      "source": "www.reddit.com",
-      "published": "2026-11-03T21:43:52+00:00",
-      "discovered_at": "2026-11-04T23:39:55.133692+00:00",
-      "score": 22.2,
-      "status": "new"
-    },
-    {
-      "id": "f9cb6261f6bb32f4",
-      "title": "TIL that hungry goat herds helped fight wildfires in Spain this past summer.",
-      "summary": "&#32; submitted by &#32; /u/RaccoonCityTacos [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xnv3w2/til_that_hungry_goat_herds_helped_fight_wildfires/",
-      "source": "www.reddit.com",
-      "published": "2026-11-04T18:00:29+00:00",
-      "discovered_at": "2026-11-04T23:39:55.133852+00:00",
-      "score": 22.2,
-      "status": "new"
-    },
-    {
-      "id": "01e335326b528326",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "source": "www.nasa.gov",
-      "published": "Wed, 04 Nov 2026 16:52:43 +0000",
-      "discovered_at": "2026-11-05T06:45:03.045625+00:00",
-      "score": 34.2,
-      "status": "scripted"
-    },
-    {
-      "id": "aa817fbd33a50e64",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read [&#8230;]",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "source": "www.nasa.gov",
-      "published": "Wed, 04 Nov 2026 15:59:36 +0000",
-      "discovered_at": "2026-11-05T06:45:03.045899+00:00",
-      "score": 32.0,
-      "status": "scripted"
-    },
-    {
-      "id": "17b419de60593afa",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore [&#8230;]",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "source": "www.nasa.gov",
-      "published": "Thu, 05 Nov 2026 01:43:21 +0000",
-      "discovered_at": "2026-11-05T06:45:03.045202+00:00",
-      "score": 30.5,
-      "status": "scripted"
-    },
-    {
-      "id": "1870c2f936857828",
-      "title": "TIL The Little City of Rancho Mirage is the ‘Playground of the Presidents’ Every president from Harry Truman onward visited Rancho Mirage numerous times. George H.W. Bush hosted a summit there and also home to Gerald Ford, Eisenhower Medical Center",
-      "summary": "&#32; submitted by &#32; /u/ubcstaffer123 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xo8ytx/til_the_little_city_of_rancho_mirage_is_the/",
-      "source": "www.reddit.com",
-      "published": "2026-11-05T03:57:28+00:00",
-      "discovered_at": "2026-11-05T06:45:02.443268+00:00",
-      "score": 29.0,
-      "status": "scripted"
-    },
-    {
-      "id": "85310a7bf2f56597",
-      "title": "TIL The California fan palm tree was very important to the Cahuilla people. They ate both the fruit and the heart, which was considered the food of last resort, because it killed the tree",
-      "summary": "&#32; submitted by &#32; /u/ubcstaffer123 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xo5yyk/til_the_california_fan_palm_tree_was_very/",
-      "source": "www.reddit.com",
-      "published": "2026-11-05T01:28:45+00:00",
-      "discovered_at": "2026-11-05T06:45:02.443114+00:00",
-      "score": 28.2,
-      "status": "scripted"
-    },
-    {
-      "id": "2d831006e6e0c241",
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette [&#8230;]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "source": "science.nasa.gov",
-      "published": "Thu, 05 Nov 2026 05:05:00 +0000",
-      "discovered_at": "2026-11-05T06:45:03.044802+00:00",
-      "score": 28.2,
-      "status": "scripted"
-    },
-    {
-      "id": "0e800ed9841dca01",
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "source": "science.nasa.gov",
-      "published": "Thu, 05 Nov 2026 05:01:00 +0000",
-      "discovered_at": "2026-11-05T06:45:03.045032+00:00",
-      "score": 28.2,
-      "status": "scripted"
-    },
-    {
       "id": "7628b02ce9bd6b72",
       "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
       "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]",
@@ -9986,7 +9887,7 @@
       "published": "Tue, 24 Nov 2026 05:01:00 +0000",
       "discovered_at": "2026-11-24T09:52:45.173315+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "1131a005285e7fe7",
@@ -10701,7 +10602,7 @@
       "published": "Wed, 25 Nov 2026 16:47:29 +0000",
       "discovered_at": "2026-11-25T21:40:27.790398+00:00",
       "score": 30.5,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "313a11094355bdc2",
@@ -10789,7 +10690,7 @@
       "published": "Thu, 26 Nov 2026 05:01:00 +0000",
       "discovered_at": "2026-11-26T08:14:58.255281+00:00",
       "score": 31.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "13ccfbc9456dd954",
@@ -10997,6 +10898,105 @@
       "source": "www.producthunt.com",
       "published": "2026-11-25T02:54:52-08:00",
       "discovered_at": "2026-11-26T08:14:57.636137+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b602a704a17fcadb",
+      "title": "Pax by Pydantic",
+      "summary": "A coding agent where even coding is a plugin Discussion | Link",
+      "url": "https://www.producthunt.com/products/pydantic",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T20:04:50-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116004+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "be57267d9ca55392",
+      "title": "SuperLoupe",
+      "summary": "search inside anything on your Mac Discussion | Link",
+      "url": "https://www.producthunt.com/products/superloupe",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T15:54:50-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116192+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "0076be2f820efc10",
+      "title": "Ottante",
+      "summary": "Checks the work your AI agents did, right on your Mac Discussion | Link",
+      "url": "https://www.producthunt.com/products/ottante",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T07:15:16-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116280+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "d40c8c7829a77167",
+      "title": "Mime",
+      "summary": "Silent dictation: mouth the words and it types them Discussion | Link",
+      "url": "https://www.producthunt.com/products/mime",
+      "source": "www.producthunt.com",
+      "published": "2026-11-24T23:22:06-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116355+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "3d8fe68f33029c6a",
+      "title": "Transept AI",
+      "summary": "Translate your book in your own voice and prove authorship Discussion | Link",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T08:34:15-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116455+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "b9f9c9126b6cd82a",
+      "title": "DeskFleet",
+      "summary": "Run coding agents together across your team’s machines Discussion | Link",
+      "url": "https://www.producthunt.com/products/deskfleet",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T09:17:28-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116571+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "2f207223aaa10f5e",
+      "title": "FocusHaze",
+      "summary": "Dim every window except the one you're working in Discussion | Link",
+      "url": "https://www.producthunt.com/products/focushaze",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T02:52:17-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116718+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "276408553ddb3131",
+      "title": "OpenChat",
+      "summary": "Open-source live chat in your own Cloudflare account Discussion | Link",
+      "url": "https://www.producthunt.com/products/openchat-5",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T09:54:19-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116785+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "6e7649e5917cee86",
+      "title": "Remora",
+      "summary": "The long-term memory layer for AI agents Discussion | Link",
+      "url": "https://www.producthunt.com/products/remora-6",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T10:28:50-08:00",
+      "discovered_at": "2026-11-26T08:37:13.116857+00:00",
       "score": 22.2,
       "status": "new"
     }
