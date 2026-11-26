@@ -1,28 +1,6 @@
 {
   "topics": [
     {
-      "id": "7628b02ce9bd6b72",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "source": "www.nasa.gov",
-      "published": "Wed, 04 Nov 2026 16:16:41 +0000",
-      "discovered_at": "2026-11-05T06:45:03.045765+00:00",
-      "score": 28.2,
-      "status": "scripted"
-    },
-    {
-      "id": "5302ce18c4e72713",
-      "title": "TIL Patrick Stewart considered his work on The Simpsons (where he voiced the leader of the Stonecutters secret society) and Sesame Street (where he was in a skit praising the letter B) the “most distinguished” work he did in the US.",
-      "summary": "&#32; submitted by &#32; /u/wimpykidfan37 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xo4959/til_patrick_stewart_considered_his_work_on_the/",
-      "source": "www.reddit.com",
-      "published": "2026-11-05T00:08:28+00:00",
-      "discovered_at": "2026-11-05T06:45:02.441337+00:00",
-      "score": 26.0,
-      "status": "new"
-    },
-    {
       "id": "4eddc8730208ac7c",
       "title": "TIL that Malaysia has nine royal families and elects its king from among their hereditary rulers every five years. This makes Malaysia one of the few countries in the world with a rotating monarchy.",
       "summary": "&#32; submitted by &#32; /u/Carboncopy99 [link] &#32; [comments]",
@@ -10997,6 +10975,28 @@
       "source": "www.producthunt.com",
       "published": "2026-11-25T10:28:50-08:00",
       "discovered_at": "2026-11-26T08:37:13.116857+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5e2dbe9977abc1f5",
+      "title": "Claude-Mem Cloud Sync",
+      "summary": "Switch devices. Keep your AI agents' memory. Discussion | Link",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "source": "www.producthunt.com",
+      "published": "2026-11-25T23:58:18-08:00",
+      "discovered_at": "2026-11-26T21:29:57.371631+00:00",
+      "score": 24.5,
+      "status": "new"
+    },
+    {
+      "id": "864bdb96af65b813",
+      "title": "ServNook",
+      "summary": "XAMPP stopped at PHP 8.2. ServNook runs PHP 8.5 on Windows Discussion | Link",
+      "url": "https://www.producthunt.com/products/webhut",
+      "source": "www.producthunt.com",
+      "published": "2026-10-23T03:52:49-07:00",
+      "discovered_at": "2026-11-26T21:29:57.371384+00:00",
       "score": 22.2,
       "status": "new"
     }
