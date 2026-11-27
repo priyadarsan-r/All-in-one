@@ -1,28 +1,6 @@
 {
   "topics": [
     {
-      "id": "885d643a7aa7e6f0",
-      "title": "SafetyClip",
-      "summary": "A clipboard manager for Mac that keeps secrets secret Discussion | Link",
-      "url": "https://www.producthunt.com/products/safetyclip",
-      "source": "www.producthunt.com",
-      "published": "2026-11-04T00:40:49-08:00",
-      "discovered_at": "2026-11-05T19:56:20.061717+00:00",
-      "score": 26.0,
-      "status": "new"
-    },
-    {
-      "id": "1b5533e1451b67c8",
-      "title": "TIL after being cancelled by ABC, the 1960s television series Batman was going to picked up by NBC for a fourth season, but before it could do so, it was discovered that hundreds of thousands of dollars' worth of Batman sets had been destroyed. Rather than rebuild the sets, NBC dropped the project.",
-      "summary": "&#32; submitted by &#32; /u/Kale_Brecht [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xonm3v/til_after_being_cancelled_by_abc_the_1960s/",
-      "source": "www.reddit.com",
-      "published": "2026-11-05T16:48:41+00:00",
-      "discovered_at": "2026-11-05T19:56:20.687257+00:00",
-      "score": 26.0,
-      "status": "new"
-    },
-    {
       "id": "33ad4a5ea472d1d1",
       "title": "Bridge",
       "summary": "Video conferencing for the agentic era Discussion | Link",
@@ -10998,6 +10976,28 @@
       "published": "2026-11-26T19:17:55-08:00",
       "discovered_at": "2026-11-27T08:49:20.025769+00:00",
       "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "5279811c4bf32f61",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "source": "science.nasa.gov",
+      "published": "Fri, 27 Nov 2026 14:22:00 +0000",
+      "discovered_at": "2026-11-27T21:16:21.263608+00:00",
+      "score": 38.8,
+      "status": "new"
+    },
+    {
+      "id": "73aa3b0a51f8168a",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "source": "www.nasa.gov",
+      "published": "Fri, 27 Nov 2026 15:01:00 +0000",
+      "discovered_at": "2026-11-27T21:16:21.263374+00:00",
+      "score": 25.2,
       "status": "new"
     }
   ]
