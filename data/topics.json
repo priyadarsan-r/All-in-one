@@ -1,17 +1,6 @@
 {
   "topics": [
     {
-      "id": "e9f6365161ffdf18",
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-      "source": "www.nasa.gov",
-      "published": "Thu, 05 Nov 2026 15:11:25 +0000",
-      "discovered_at": "2026-11-05T19:56:21.220536+00:00",
-      "score": 27.5,
-      "status": "new"
-    },
-    {
       "id": "885d643a7aa7e6f0",
       "title": "SafetyClip",
       "summary": "A clipboard manager for Mac that keeps secrets secret Discussion | Link",
@@ -845,7 +834,7 @@
       "published": "2026-11-06T19:31:07+00:00",
       "discovered_at": "2026-11-07T05:57:13.158586+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "2622ef181baf4a7b",
@@ -1043,7 +1032,7 @@
       "published": "Sat, 07 Nov 2026 05:05:00 +0000",
       "discovered_at": "2026-11-07T06:14:39.861063+00:00",
       "score": 28.2,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "1045d20d2950c22c",
@@ -10382,7 +10371,7 @@
       "published": "Wed, 25 Nov 2026 19:06:56 +0000",
       "discovered_at": "2026-11-25T21:40:27.790048+00:00",
       "score": 29.0,
-      "status": "new"
+      "status": "scripted"
     },
     {
       "id": "859c56629f760779",
@@ -10997,6 +10986,17 @@
       "source": "science.nasa.gov",
       "published": "Fri, 27 Nov 2026 05:01:00 +0000",
       "discovered_at": "2026-11-27T08:29:14.393808+00:00",
+      "score": 22.2,
+      "status": "new"
+    },
+    {
+      "id": "66177d13986752f9",
+      "title": "Depost AI",
+      "summary": "The LinkedIn AI agent that learns what works for your brand Discussion | Link",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "source": "www.producthunt.com",
+      "published": "2026-11-26T19:17:55-08:00",
+      "discovered_at": "2026-11-27T08:49:20.025769+00:00",
       "score": 22.2,
       "status": "new"
     }

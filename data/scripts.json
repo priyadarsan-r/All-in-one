@@ -2690,6 +2690,123 @@
       "created_at": "2026-11-26T08:37:13.800855+00:00",
       "status": "rendered",
       "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "narration": "Here's something worth discovering. NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement. How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Sup. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+          "visual_query": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+          "duration": 8
+        },
+        {
+          "text": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace in",
+          "visual_query": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement"
+      ],
+      "sources": [
+        "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-313a11094355bdc2",
+      "topic_id": "313a11094355bdc2",
+      "created_at": "2026-11-27T08:49:20.828616+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday.",
+      "narration": "Here's something worth discovering. TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday.. &#32; submitted by &#32; /u/DerpyPai [link] &#32; [comments]. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday. — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday.",
+          "visual_query": "TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday.",
+          "duration": 8
+        },
+        {
+          "text": "&#32; submitted by &#32; /u/DerpyPai [link] &#32; [comments]",
+          "visual_query": "TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday. visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "TIL that in 1960, scientists published a paper in Science predicting that the world's population would reach infinity on Friday, November 13, 2026. They picked the date partly because it was the lead author's birthday."
+      ],
+      "sources": [
+        "https://www.reddit.com/r/todayilearned/comments/1xplv0g/til_that_in_1960_scientists_published_a_paper_in/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-e4c73fa71b53408f",
+      "topic_id": "e4c73fa71b53408f",
+      "created_at": "2026-11-27T08:49:20.828670+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
+    },
+    {
+      "hook": "You probably haven't seen this: APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "narration": "Here's something worth discovering. APOD: 2026 November 7 – De Gerlache-Kocher Massif. APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp. The details are worth exploring, and the original source is linked for you to check. Follow CurioDaily for more discoveries.",
+      "caption": "APOD: 2026 November 7 – De Gerlache-Kocher Massif — a CurioDaily discovery. Check the original source.",
+      "hashtags": [
+        "#CurioDaily",
+        "#DidYouKnow",
+        "#Discovery"
+      ],
+      "scenes": [
+        {
+          "text": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+          "visual_query": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+          "duration": 8
+        },
+        {
+          "text": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Di",
+          "visual_query": "APOD: 2026 November 7 – De Gerlache-Kocher Massif visual",
+          "duration": 10
+        },
+        {
+          "text": "Explore the original source",
+          "visual_query": "cinematic abstract background",
+          "duration": 8
+        }
+      ],
+      "claims_to_verify": [
+        "APOD: 2026 November 7 – De Gerlache-Kocher Massif"
+      ],
+      "sources": [
+        "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+      ],
+      "needs_human_review": true,
+      "id": "cd-2ded0adc127fb0cf",
+      "topic_id": "2ded0adc127fb0cf",
+      "created_at": "2026-11-27T08:49:20.828683+00:00",
+      "status": "rendered",
+      "category": "curiosity_science"
     }
   ]
 }
