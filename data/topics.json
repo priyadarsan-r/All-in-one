@@ -1,17 +1,6 @@
 {
   "topics": [
     {
-      "id": "33ad4a5ea472d1d1",
-      "title": "Bridge",
-      "summary": "Video conferencing for the agentic era Discussion | Link",
-      "url": "https://www.producthunt.com/products/meetonbridge",
-      "source": "www.producthunt.com",
-      "published": "2026-10-28T14:00:49-07:00",
-      "discovered_at": "2026-11-05T19:56:20.061672+00:00",
-      "score": 25.2,
-      "status": "new"
-    },
-    {
       "id": "77497ffed0b71692",
       "title": "Stitch.ai",
       "summary": "Your AI workspace for mail, calendar, notes, tasks and more Discussion | Link",
@@ -10998,6 +10987,17 @@
       "published": "Fri, 27 Nov 2026 15:01:00 +0000",
       "discovered_at": "2026-11-27T21:16:21.263374+00:00",
       "score": 25.2,
+      "status": "new"
+    },
+    {
+      "id": "d070a8783c610615",
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "summary": "APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP [&#8230;]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+      "source": "science.nasa.gov",
+      "published": "Sat, 28 Nov 2026 05:05:00 +0000",
+      "discovered_at": "2026-11-28T07:46:48.611134+00:00",
+      "score": 28.2,
       "status": "new"
     }
   ]
