@@ -119,6 +119,11 @@
       "collected_at": "2026-11-27T01:46:07.038707+00:00",
       "published_count": 0,
       "note": "No platform performance metrics queried yet; add Insights/YouTube Analytics scopes."
+    },
+    {
+      "collected_at": "2026-11-28T01:29:02.694145+00:00",
+      "published_count": 0,
+      "note": "No platform performance metrics queried yet; add Insights/YouTube Analytics scopes."
     }
   ]
 }
